@@ -1,0 +1,6 @@
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-include-cache
+
+title: "My Site"
+description: "A Jekyll site using Minimal Mistakes."
