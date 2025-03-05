@@ -1,0 +1,18 @@
+nav:
+  - title: "Home"
+    url: "/2025/"
+  - title: "Schedule"
+    url: "/2025/schedule/"
+  - title: "Speakers"
+    url: "/2025/speakers/"
+  - title: "Call for Papers"
+    url: "/2025/cfp/"
+  - title: "Contact"
+    url: "/2025/contact/"
+
+# Archive past versions
+archives:
+  - title: "2024"
+    url: "/2024/"
+  - title: "2023"
+    url: "/2023/"

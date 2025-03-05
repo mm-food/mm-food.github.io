@@ -1,0 +1,66 @@
+.site-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    padding: 10px 20px;
+  }
+  
+  .nav-left .site-title {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .nav-right {
+    display: flex;
+  }
+  
+  .nav-main {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+  }
+  
+  .nav-main li a {
+    color: white;
+    text-decoration: none;
+    padding: 8px 12px;
+  }
+  
+  /* Past Editions Dropdown */
+  .dropdown {
+    position: relative;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #444;
+    min-width: 150px;
+    top: 100%;
+    left: 0;
+    padding: 5px 0;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  .dropdown-content li {
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .dropdown-content li a {
+    color: white;
+    display: block;
+    padding: 8px 12px;
+    text-decoration: none;
+  }
+  
+  .dropdown-content li a:hover {
+    background-color: #555;
+  }
+  

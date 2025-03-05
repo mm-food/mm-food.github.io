@@ -1,6 +1,32 @@
+title: "Multi-modal Food Computing Workshop"
+description: "A Jekyll site using Minimal Mistakes."
+
 remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"
+
 plugins:
   - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-archives
+  - jekyll-toc
 
-title: "My Site"
-description: "A Jekyll site using Minimal Mistakes."
+# Ensure all pages are included
+include: ["_pages"]
+
+# Default year
+defaults:
+  - scope:
+      path: "_pages/2025"
+    values:
+      permalink: /2025/:basename/
+
+# Navigation from a separate file
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+# Pointing to external navigation file
+navigation: _data/navigation.yml
