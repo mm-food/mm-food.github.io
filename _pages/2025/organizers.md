@@ -4,7 +4,7 @@ permalink: /2025/organizers/
 layout: single
 toc: true
 toc_label: "Jump To"
-toc_icon: "clipboard-list"
+toc_icon: "cogs"
 ---
 
 ## Steering Committee

@@ -3,7 +3,7 @@ permalink: /2025/about/
 title: "About"
 toc: true
 toc_label: "Jump To"
-toc_icon: "clipboard-list"
+toc_icon: "cogs"
 ---
 
 ## Food Computing

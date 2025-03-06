@@ -4,14 +4,14 @@ title: "Workshop 2025"
 permalink: /2025/
 toc: true
 toc_label: "Jump To"
-toc_icon: "clipboard-list"
+toc_icon: "cogs"
 ---
 
 ## Overview
 The Multimodal Food Computing (MM-FOOD) workshop explores the intersection of AI, computer vision, natural language processing, and sensory modeling in understanding food. It aims to advance multimodal methods for food recognition, recommendation, and analysis, addressing challenges in health, nutrition, and sustainability. By bringing together researchers from AI, food science, health informatics, computational social science, and human-computer interaction (HCI), this workshop fosters interdisciplinary collaboration to drive innovation in multimodal food computing.
 
 
-The MM-FOOD 2025 workshop will be hosted on-site at the 33rd ACM International Conference on Multimedia (ACMMM25). More information can be found <a href="https://acmmm2025.org/workshop/" target="_blank"> here</a>.
+The MM-FOOD 2025 workshop will be hosted on-site at the 33rd ACM International Conference on Multimedia (ACMMM25). More information about the conference can be found <a href="https://acmmm2025.org/" target="_blank"> here</a>.
 
 <i class="fas fa-map-marker-alt"></i> Venue: [Dublin, Ireland]  
 <i class="fas fa-calendar-alt"></i> Date: [27 October, 2025]
@@ -19,7 +19,7 @@ The MM-FOOD 2025 workshop will be hosted on-site at the 33rd ACM International C
 
 ## Program Highlights
 
-### Kenote Speakers
+### Keynote Speakers
 **[TBD]**
 
 ### Panel Discussion
@@ -41,4 +41,4 @@ All accepted papers will be a part of the conference proceedings.
 **[TBD]**
 
 
-## Collaboration and Partnership
+## Collaboration and Partnerships

@@ -7,7 +7,7 @@ url: "https://mm-food.github.io"
 logo : "/assets/images/mm-food_logo.png"
 
 
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: sunrise
 search: false
 
 # Build settings
@@ -31,10 +31,10 @@ author:
   avatar : "/assets/images/acmmm_logo.png"
   bio    : "in conjunction with the 33rd ACM International Conference on Multimedia (ACMMM25), Dublin, Ireland, 27-31 October, 2025"
   links:
-    - label: "ACM MM 2025"
+    - label: "ACM MM 2025 Workshops"
       icon: "fas fa-fw fa-link"
       url: "https://acmmm2025.org/workshop/"
-    - label: "ACM MM 2025"
+    - label: "@acm_2025"
       icon: fa-brands fa-square-x-twitter
       url: "https://x.com/acm_2025"
 
