@@ -1,16 +1,15 @@
-# frozen_string_literal: true
-
 source "https://rubygems.org"
 
-# gem "rails"
-
-gem "minimal-mistakes-jekyll"
 gem "github-pages", group: :jekyll_plugins
-gem "jekyll-include-cache", group: :jekyll_plugins
-gem 'faraday-retry'
-gem 'wdm', '>= 0.1.0' if Gem.win_platform?
-gem "jekyll-feed"
-gem "jekyll-sitemap"
-gem "jekyll-paginate"
-gem "jekyll-archives"
-gem "jekyll-toc"
+
+gem "tzinfo-data"
+
+# If you have any plugins, put them here!
+group :jekyll_plugins do
+  gem "jekyll-paginate"
+  gem "jekyll-sitemap"
+  gem "jekyll-gist"
+  gem "jemoji"
+  gem "jekyll-include-cache"
+  gem "jekyll-algolia"
+end

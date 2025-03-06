@@ -2,11 +2,10 @@
 layout: single
 title: "Schedule"
 permalink: /2025/schedule/
+toc: true
+toc_label: "Jump To"
+toc_icon: "clipboard-list"
 ---
 
-## 2025 Schedule
+**[TBD]**
 
-| Time  | Event |
-|-------|-------|
-| 9 AM  | Opening Keynote |
-| 10 AM | Paper Presentations |

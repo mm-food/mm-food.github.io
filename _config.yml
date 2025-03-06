@@ -1,32 +1,51 @@
-title: "Multi-modal Food Computing Workshop"
-description: "A Jekyll site using Minimal Mistakes."
+# Site settings
+title: Multimodal Food Computing
+subtitle: "(MM-FOOD 2025)"
+description: "The inaugral International Multimedia Food Computing workshop being hosted in conjunction with ACM Multimedia 2025."
+email: foodcomputing.ashoka@gmail.com
+url: "https://mm-food.github.io"
+logo : "/assets/images/mm-food_logo.png"
 
-remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "default"
 
+minimal_mistakes_skin: dark
+search: false
+
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+timezone:	Asia/Calcutta
+
+include:
+  - _pages
+
+# Plugins
 plugins:
-  - jekyll-include-cache
-  - jekyll-feed
   - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-archives
-  - jekyll-toc
+  - jekyll-gist
+  - jemoji
+  - jekyll-include-cache
+  - jekyll-redirect-from
 
-# Ensure all pages are included
-include: ["_pages"]
+author:
+  name   : "1st International Workshop on Multimodal Food Computing"
+  avatar : "/assets/images/acmmm_logo.png"
+  bio    : "in conjunction with the 33rd ACM International Conference on Multimedia (ACMMM25), Dublin, Ireland, 27-31 October, 2025"
+  links:
+    - label: "ACM MM 2025"
+      icon: "fas fa-fw fa-link"
+      url: "https://acmmm2025.org/workshop/"
+    - label: "ACM MM 2025"
+      icon: fa-brands fa-square-x-twitter
+      url: "https://x.com/acm_2025"
 
-# Default year
+
+footer:
+
 defaults:
+  # _pages
   - scope:
-      path: "_pages/2025"
+      path: "_pages"
+      type: pages
     values:
-      permalink: /2025/:basename/
-
-# Navigation from a separate file
-collections:
-  pages:
-    output: true
-    permalink: /:path/
-
-# Pointing to external navigation file
-navigation: _data/navigation.yml
+      layout: single
+      author_profile: true
