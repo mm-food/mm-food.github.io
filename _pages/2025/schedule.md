@@ -4,7 +4,7 @@ title: "Schedule"
 permalink: /2025/schedule/
 toc: true
 toc_label: "Jump To"
-toc_icon: "clipboard-list"
+toc_icon: "cogs"
 ---
 
 **[TBD]**

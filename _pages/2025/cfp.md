@@ -4,19 +4,19 @@ permalink: /2025/cfp/
 layout: single
 toc: true
 toc_label: "Jump To"
-toc_icon: "clipboard-list"
+toc_icon: "cogs"
 ---
 
 
 ## Important Dates
 The submission deadline is at (23:59) 11:59 p.m. of the stated deadline date Anywhere on Earth.
 
-New paper submission deadline: **[TBD]**
-Notification of acceptance: **[TBD]**
-Camera-ready deadline: **[TBD]**
-Early bird registration deadline: **[TBD]**
-Finalized Workshop Program: **[TBD]**
-Workshop date: **[TBD]**
+New paper submission deadline: **[TBD]** <br>
+Notification of acceptance: **[TBD]** <br>
+Camera-ready deadline: **[TBD]** <br>
+Early bird registration deadline: **[TBD]** <br>
+Finalized Workshop Program: **[TBD]** <br>
+Workshop date: **[TBD]**    
 
 
 ## Submission and Review

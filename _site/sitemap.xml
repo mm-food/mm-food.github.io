@@ -7,9 +7,6 @@
 <loc>http://localhost:4000/2025/cfp/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/contact/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/2025/</loc>
 </url>
 <url>
@@ -20,8 +17,5 @@
 </url>
 <url>
 <loc>http://localhost:4000/2025/schedule/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/_pages/2025/speakers.html</loc>
 </url>
 </urlset>
