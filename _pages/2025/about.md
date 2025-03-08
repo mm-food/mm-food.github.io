@@ -2,6 +2,7 @@
 permalink: /2025/about/
 title: "About"
 toc: true
+toc_sticky: true
 toc_label: "Jump To"
 toc_icon: "cogs"
 ---
