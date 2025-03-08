@@ -1,21 +1,24 @@
 ---
-title: "Organizers"
-permalink: /2025/organizers/
+title: "Contribution"
+permalink: /2025/contribution/
 layout: single
 toc: true
+toc_sticky: true
 toc_label: "Jump To"
 toc_icon: "cogs"
 ---
 
-## Steering Committee
+## Organizers
+
+### Steering Committee
 
 **[TBD]**
 
-## Organizing Committee
+### Organizing Committee
 
 **[TBD]**
 
-## Program Committee
+### Program Committee
 
 **[TBD]**
 
@@ -37,4 +40,7 @@ toc_icon: "cogs"
    <a href="https://fkg-india.github.io/" target="_blank">
       <i class="fas fa-fw fa-link"></i> Lab Website
    </a><br>
-   [<i class="fas fa-envelope"></i> foodcomputing.ashoka@ashoka.edu.in](mailto:foodcomputing.ashoka@ashoka.edu.in)   
+   [<i class="fas fa-envelope"></i> foodcomputing.ashoka@ashoka.edu.in](mailto:foodcomputing.ashoka@ashoka.edu.in)
+
+## Collaboration and Partnerships
+**[TBD]**

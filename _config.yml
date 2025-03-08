@@ -1,14 +1,29 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
+
+# Theme Settings
+#
+# Review documentation to determine if you should use `theme` or `remote_theme`
+# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
+
 # Site settings
 title: Multimodal Food Computing
-subtitle: "(MM-FOOD 2025)"
+subtitle: "MM-FOOD 2025"
 description: "The inaugral International Multimedia Food Computing workshop being hosted in conjunction with ACM Multimedia 2025."
 email: foodcomputing.ashoka@gmail.com
 url: "https://mm-food.github.io"
 logo : "/assets/images/mm-food_logo.png"
 
 
-minimal_mistakes_skin: sunrise
+minimal_mistakes_skin: sunrise # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "default"
 search: false
+
+# Site Settings
+locale: "en-US"
 
 # Build settings
 markdown: kramdown
@@ -27,19 +42,24 @@ plugins:
   - jekyll-redirect-from
 
 author:
-  name   : "1st International Workshop on Multimodal Food Computing"
-  avatar : "/assets/images/acmmm_logo.png"
-  bio    : "in conjunction with the 33rd ACM International Conference on Multimedia (ACMMM25), Dublin, Ireland, 27-31 October, 2025"
+  name   : "1st International Workshop on Multimodal Food Computing <br> (MMFOOD25)"
+  avatar : "/assets/images/acmmm_logo2.jpg"
+  date: "27 October, 2025"
+  location : "Dublin, Ireland"
+  bio    : "in conjunction with the 33rd ACM International Conference on Multimedia (ACMMM25)"
   links:
     - label: "ACM MM 2025 Workshops"
       icon: "fas fa-fw fa-link"
       url: "https://acmmm2025.org/workshop/"
-    - label: "@acm_2025"
-      icon: fa-brands fa-square-x-twitter
-      url: "https://x.com/acm_2025"
-
+    - label: "Contact us"
+      icon: "fas fa-envelope"
+      url: "mailto:foodcomputing.ashoka@gmail.com?cc=partha.das@ashoka.edu.in,lipika.dey@ashoka.edu.in,saransh.gupta@ashoka.edu.in&subject=[MMFOOD25]"
 
 footer:
+
+# Disable feed links
+atom_feed:
+  hide: true
 
 defaults:
   # _pages

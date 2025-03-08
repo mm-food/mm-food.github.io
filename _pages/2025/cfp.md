@@ -3,6 +3,7 @@ title: "Call for Papers"
 permalink: /2025/cfp/
 layout: single
 toc: true
+toc_sticky: true
 toc_label: "Jump To"
 toc_icon: "cogs"
 ---
