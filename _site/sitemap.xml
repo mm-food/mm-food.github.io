@@ -7,7 +7,10 @@
 <loc>http://localhost:4000/2025/cfp/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/2025/contribution/</loc>
+<loc>http://localhost:4000/2025/committees/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/2025/contact/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/2025/</loc>

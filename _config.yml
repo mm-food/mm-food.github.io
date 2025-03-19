@@ -16,7 +16,7 @@ subtitle: "MM-FOOD 2025"
 description: "The inaugral International Multimedia Food Computing workshop being hosted in conjunction with ACM Multimedia 2025."
 email: foodcomputing.ashoka@gmail.com
 url: "https://mm-food.github.io"
-logo : "/assets/images/mm-food_logo.png"
+logo : "/assets/images/logo/mm-food_logo.png"
 
 
 minimal_mistakes_skin: sunrise # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "default"
@@ -43,8 +43,8 @@ plugins:
 
 author:
   name   : "1st International Workshop on Multimodal Food Computing <br> (MMFOOD25)"
-  avatar : "/assets/images/acmmm_logo2.jpg"
-  date: "27 October, 2025"
+  avatar : "/assets/images/logo/acmmm_logo2.jpg"
+  date: "27/28 October, 2025"
   location : "Dublin, Ireland"
   bio    : "in conjunction with the 33rd ACM International Conference on Multimedia (ACMMM25)"
   links:
