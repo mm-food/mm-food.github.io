@@ -14,31 +14,29 @@ legend:
     - name: 
       color: orange-3
 days:
-- name: First Day (Monday, October 27th)
+- name: (Monday/Tuesday, October 27/28th)
   events:
     - title: Session 1
       session: true
     - title: TBD
       subtitle: TBD
       category: TBD
-      time: '10:00 - 13:00'
-    - title: 'Session 2'
+      time: '10:00 - 11:30'
+    - title: Session 2
       session: true
     - title: TBD
       subtitle: TBD
       category: TBD
-      time: '14:00 - 17:00'
-- name: Second Day (Tuesday, October 28th)
-  events:
+      time: '11:30 - 13:00'
     - title: Session 3
       session: true
     - title: TBD
       subtitle: TBD
       category: TBD
-      time: '10:00 - 13:00'
-    - title: 'Session 4 '
+      time: '13:00 - 14:30'
+    - title: Session 4
       session: true
     - title: TBD
       subtitle: TBD
       category: TBD
-      time: '14:00 - 17:00'
+      time: '14:30 - 17:00'
