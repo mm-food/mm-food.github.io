@@ -31,7 +31,7 @@ ramesh:
       ● Founding director of the AI Lab at the University of Michigan in 1987 <br>
       ● Founding director of the UCI Institute for Future Health <br>
       ● Leading the development of the Personal Health Navigator, now being standardized globally by ISO"
-    url: "https://www.ashoka.edu.in/profile/lipika-dey/"
+    url: "https://ngs.ics.uci.edu/"
     btn_label_1: "About"
     btn_label_2: "Read More"
 
