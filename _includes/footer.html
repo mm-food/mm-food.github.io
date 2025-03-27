@@ -1,11 +1,17 @@
-<div class="page__footer-copyright">
-    &copy; 
-    <a href="{{ site.copyright_url | default: site.url}}">{{ site.copyright | default: site.subtitle }}</a> | 
-    <a href="mailto:{{ site.email }}">{{ site.email | default: site.subtitle }}</a>
-    <span style="float: right;">
+<div class="page__footer-copyright" style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+    <span style="width: 100%; text-align: left;">
+        &copy; 
+        <a href="{{ site.copyright_url | default: site.url }}">{{ site.copyright | default: site.subtitle }}</a> | 
+        <a href="mailto:{{ site.email }}">{{ site.email | default: site.subtitle }}</a>
+    </span>
+    
+    <span style="width: 100%; text-align: center; margin: 10px 0;">
+        <img src="/assets/images/banner/organization.png" alt="organization" style="max-width: 800px; width: 100%; height: auto;">
+    </span>
+    
+    <span style="width: 100%; text-align: right;">
         {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} 
         <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; 
         <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.
     </span>
-  </div>
-  
+</div>
