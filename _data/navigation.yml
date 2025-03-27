@@ -1,7 +1,7 @@
 main:
   - title: "Overview"
     url: "/2025/"
-    description: "Overview of MM-FOOD 2025 Workshop"
+    description: "Overview of MMFood'25 Workshop"
   - title: "Call for Papers"
     url: "/2025/cfp/"
     description: "Submission guidelines, important dates"
@@ -10,7 +10,7 @@ main:
     description: "Workshop program and session timings"
   - title: "Organization"
     url: "/2025/organization/"
-    description: "Meet the organizing team behind MM-FOOD Workshop 2025"
+    description: "Meet the organizing team behind MMFood'25 Workshop"
   - title: "Hackathon"
     url: "/2025/hackathon/"
     description: "Learn more about the hackathon"
