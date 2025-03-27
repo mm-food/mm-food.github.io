@@ -1,0 +1,44 @@
+legend:
+  title: Legend
+  categories:
+    - name: 
+      color: red-6
+    - name: 
+      color: green-6
+    - name: 
+      color: blue-6
+    - name: 
+      color: teal-6
+    - name: 
+      color: lime-3
+    - name: 
+      color: orange-3
+days:
+- name: First Day (Monday, October 27th)
+  events:
+    - title: Session 1
+      session: true
+    - title: TBD
+      subtitle: TBD
+      category: TBD
+      time: '10:00 - 13:00'
+    - title: 'Session 2'
+      session: true
+    - title: TBD
+      subtitle: TBD
+      category: TBD
+      time: '14:00 - 17:00'
+- name: Second Day (Tuesday, October 28th)
+  events:
+    - title: Session 3
+      session: true
+    - title: TBD
+      subtitle: TBD
+      category: TBD
+      time: '10:00 - 13:00'
+    - title: 'Session 4 '
+      session: true
+    - title: TBD
+      subtitle: TBD
+      category: TBD
+      time: '14:00 - 17:00'
