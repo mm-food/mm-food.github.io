@@ -76,4 +76,4 @@ All content other than in the main paper should be written in separate supplemen
 <i class="fa-solid fa-circle-info"></i> Reviewers will be encouraged to look at the supplementary material, but are not obligated to do so.
 
 #### Submission Link
-<i class="fa-solid fa-thumbtack"></i> The submission web page for MMFood’25 is <a href="https://easychair.org/conferences?conf=mmfood25" target="_blank">here</a>.
+<i class="fa-solid fa-thumbtack"></i> The EasyChair submission web page for MMFood’25 is <a href="https://easychair.org/conferences?conf=mmfood25" target="_blank">here</a>.
