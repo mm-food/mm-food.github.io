@@ -76,4 +76,8 @@ All content other than in the main paper should be written in separate supplemen
 <i class="fa-solid fa-circle-info"></i> Reviewers will be encouraged to look at the supplementary material, but are not obligated to do so.
 
 #### Submission Link
-<i class="fa-solid fa-thumbtack"></i> The EasyChair submission web page for MMFood’25 is <a href="https://easychair.org/conferences?conf=mmfood25" target="_blank">here</a>.
+The MMFood'25 Call for Papers is open now. Please use the following link to submit your paper.
+<a href="https://easychair.org/conferences?conf=mmfood25" target="_blank"
+   style="display: inline-block; padding: 10px 20px; background-color: #0072b1; color: white; text-decoration: none; font-size: 14px; border-radius: 5px; font-weight: bold; transition: background-color 0.3s ease, transform 0.3s ease;">
+   <i class="fa-solid fa-arrow-up-right-from-square"></i> Submit via EasyChair
+</a>
