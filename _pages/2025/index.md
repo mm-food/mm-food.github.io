@@ -5,9 +5,9 @@ header:
   overlay_image: /assets/images/banner/food_banner.jpg
   caption: "Join us in Dublin for MMFood'25! We'd also love your help in spreading the word about this workshop."
   actions:
-  - label: "<a href='https://acmmm2025.org/' style='display: inline-block; padding: 10px 15px; background-color: transparent; color: white; text-decoration: none; border: 2px solid white; border-radius: 5px; font-weight: bold;' onmouseover='this.style.backgroundColor=\"white\"; this.style.color=\"black\"' onmouseout='this.style.backgroundColor=\"transparent\"; this.style.color=\"white\"'> <i class='fas fa-fw fa-link'></i> ACM Multimedia 2025 </a>"
+  - label: "<a href='https://acmmm2025.org/' target='_blank' style='display: inline-block; padding: 10px 15px; background-color: transparent; color: white; text-decoration: none; border: 2px solid white; border-radius: 5px; font-weight: bold;' onmouseover='this.style.backgroundColor=\"white\"; this.style.color=\"black\"' onmouseout='this.style.backgroundColor=\"transparent\"; this.style.color=\"white\"'> <i class='fas fa-fw fa-link'></i> ACM Multimedia 2025 </a>"
     url: "#"
-  - label: "<a href='/assets/resources/MMFood'25_CFP.pdf' target='_blank' style='display: inline-block; padding: 10px 15px; background-color: transparent; color: white; text-decoration: none; border: 2px solid white; border-radius: 5px; font-weight: bold;' onmouseover='this.style.backgroundColor=\"white\"; this.style.color=\"black\"' onmouseout='this.style.backgroundColor=\"transparent\"; this.style.color=\"white\"'> <i class='fas fa-download'></i> Download Call for Papers</a>"
+  - label: "<a href='/assets/resources/MMFood25_CFP.pdf' target='_blank' style='display: inline-block; padding: 10px 15px; background-color: transparent; color: white; text-decoration: none; border: 2px solid white; border-radius: 5px; font-weight: bold;' onmouseover='this.style.backgroundColor=\"white\"; this.style.color=\"black\"' onmouseout='this.style.backgroundColor=\"transparent\"; this.style.color=\"white\"'> <i class='fas fa-download'></i> Download Call for Papers</a>"
     url: "#"
 excerpt: "1st International Workshop on Multi-modal Food Computing"
 permalink: /2025/
