@@ -42,33 +42,33 @@ The submission deadline is at **(23:59) 11:59 p.m.** of the stated deadline date
 ### Submission and Review
 All accepted papers will be included in the **ACM MM Workshop proceedings series** by ACM/Sheridan publishing.
 
-<i class="fa-solid fa-circle-info"></i> We strongly encourage you to review the general **ACM author guidelines** <a href="https://acmmm2025.org/information-for-authors/" target="_blank">here</a>.
+<i class="fa-solid fa-thumbtack"></i> We strongly encourage you to review the general **ACM author guidelines** <a href="https://acmmm2025.org/information-for-authors/" target="_blank">here</a>.
 
-For workshop-specific details, please read the following information very carefully.  
+<i class="fa-solid fa-circle-info"></i> For workshop-specific details, please read the following information very carefully.  
 
 #### General Instructions
+The MMFood'25 workshop follows the **ACM MM 2025** guidelines, including a **double-blind review process**.
 
 >
-<i class="fa-solid fa-thumbtack"></i> The MMFood'25 workshop follows the **ACM MM 2025** guidelines, including a **double-blind review process**.
+As per ACM guidelines, authors may upload preprints to **arXiv or similar non-peer-reviewed archives**. 
 
->
-<i class="fa-solid fa-thumbtack"></i> As per ACM guidelines, authors may upload preprints to **arXiv or similar non-peer-reviewed archives**. 
-
->
-<i class="fa-solid fa-thumbtack"></i> Authors **must not** include names, affiliations, or any identifying information in their submissions. Self-references should be written in the third person. Names will be added in the **camera-ready** version upon acceptance.
+<i class="fa-solid fa-circle-info"></i> Authors **must not** include names, affiliations, or any identifying information in their submissions. Self-references should be written in the third person. Names will be added in the **camera-ready** version upon acceptance.
 
 #### Paper Length and Format 
->
-Workshop papers should be 4-8 pages, with up to an additional 2 pages of references. Overlength papers will be rejected without review. ACM Article Template is available <a href="https://www.acm.org/publications/proceedings-template">here</a>. Please remember to add Concepts and Keywords.
+Workshop papers should be 4-8 pages, with up to an additional 2 pages of references.
+
+<i class="fa-solid fa-thumbtack"></i> ACM Article Template is available <a href="https://www.acm.org/publications/proceedings-template" target="_blank">here</a>. Please ensure that you submit your papers subscribing to this format.
 
 >
 Please use the template in traditional double-column format to prepare your submissions. For example, word users should use Word Interim Template, and LaTeX users should use sample-sigconf-authordraft template. When using sample-sigconf-authordraft template, for submission and review of manuscript you could use the following documentclass command instead of the example provided in the template: \documentclass[sigconf, screen, review, anonymous]{acmart}
 
-<i class="fa-solid fa-circle-info"></i> Please ensure that you submit your papers subscribing to this format for full consideration during the review.
+<i class="fa-solid fa-circle-info"></i> Overlength papers will be rejected without review. Please remember to add Concepts and Keywords.
 
 #### Supplementary Material
+Optionally, the authors may upload supplementary material that complements the paper submission.
+
 >
-Optionally, the authors may upload supplementary material that complements the paper submission. Supplementary material may include videos, proofs, additional figures or tables, detailed analysis of experiments, or other content that could not be included in the main paper due to space or format constraints. We encourage (if possible) authors to upload their code, where appropriate, as part of their supplementary material in order to help reviewers assess the quality and reproducibility of the work.
+Supplementary material may include videos, proofs, additional figures or tables, detailed analysis of experiments, or other content that could not be included in the main paper due to space or format constraints. We encourage (if possible) authors to upload their code, where appropriate, as part of their supplementary material in order to help reviewers assess the quality and reproducibility of the work.
 
 >
 All content other than in the main paper should be written in separate supplementary material. ACM does not allow an appendix following the main paper in the main submission file. There is no page limit for the supplementary material; however, only a single ZIP file (maximum 50 MB) containing all relevant content may be submitted.
@@ -76,5 +76,4 @@ All content other than in the main paper should be written in separate supplemen
 <i class="fa-solid fa-circle-info"></i> Reviewers will be encouraged to look at the supplementary material, but are not obligated to do so.
 
 #### Submission Link
->
-The Submission website will be opened soon: **[TBD]**
+<i class="fa-solid fa-thumbtack"></i> The Submission website will be opened soon: **[TBD]**
