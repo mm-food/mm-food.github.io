@@ -66,34 +66,62 @@ yoko:
   - image_path: /assets/images/people/yoko.jpg
     title: Dr. Yoko Yamakata, <br> University of Tokyo <br> (Japan)
     size: 200px
-    excerpt: "**Dr. Yoko Yamakata** received a Ph.D. in Informatics from Kyoto University in 2007. From 2010 to 2016, she served as a Lecturer and later an Associate Professor at Kyoto University. In 2015, she became a JSPS Research Fellow and spent time as a Visiting Researcher at the University of Sussex in the UK, accompanied by two children. In 2019, she joined the University of Tokyo as an Associate Professor in the Graduate School of Information Science and Technology, and in 2024, became a Professor at the Information Technology Center of the University of Tokyo. Her research interests focus on multimedia information processing,"
+    excerpt: "**Dr. Yoko Yamakata** received a Ph.D. in Informatics from Kyoto University in 2007. From 2010 to 2016, she served as a Lecturer and later an Associate Professor at Kyoto University. In 2015, she became a JSPS Research Fellow and spent time as a Visiting Researcher at the University of Sussex in the UK, accompanied by two children. In 2019, she joined the University of Tokyo as an Associate Professor in the Graduate School of Information Science and Technology, and in 2024, became a Professor at the Information Technology Center of the University of Tokyo. Her research interests focus on multimedia information processing."
     url: "https://www.iii.u-tokyo.ac.jp/faculty/yamakata_yoko"
+    btn_label_1: "About"
+    btn_label_2: "Read More"
+
+maija:
+  - image_path: /assets/images/people/maija.jpg
+    title: Dr. Maija Kāle, <br> Baltic International Centre for Economic Policy Studies <br> (Latvia)
+    size: 200px
+    excerpt: "**Dr. Maija Kāle**Maija Kāle is a Research Fellow at BICEPS. She holds a Ph.D. from the Faculty of Computer Science (now Faculty of Science and Technology) at the University of Latvia, where her research in ‘food computing’ focuses on reducing inefficiencies in the food sector and promoting healthier diets and more resilient food systems globally. Her research is interdisciplinary, integrating cognitive and social sciences, focusing on food systems, climate change, bioeconomy and circular economy, and increasingly on how traditional knowledge or intelligence intersects with new artificial intelligence(s) to shape the future(s) of food systems and other complex systems. Since 2007, Maija has worked with sustainability and digitalisation issues in various leadership and expert roles. Since 2016, Maija has worked as an Adviser at the Nordic Council of Ministers Office in Latvia and is also a member of Nordic Innovation’s Nordic Task Force for Diversity."
+    url: "https://biceps.org/people/maija-kale/"
+    btn_label_1: "About"
+    btn_label_2: "Read More"
+
+ioannis:
+  - image_path: /assets/images/people/ioannis.jpg
+    title: Dr. Ioannis Papathanail, <br> University of Bern <br> (Switzerland)
+    size: 200px
+    excerpt: "**Dr. Ioannis Papathanail** is a postdoctoral researcher at the ARTORG Center for Biomedical Engineering Research, at the University of Bern, Switzerland, focusing on AI in health and nutrition. He holds a PhD in Biomedical Engineering from the University of Bern, with a dissertation titled 'Machine learning-based dietary assessment'. He earned his Bachelor and Integrated Master's degree from the Aristotle University in Thessaloniki, Greece, with a thesis titled 'Techniques for Audio-Visual Diarization and Segmentation of Speakers'. He has been involved in various research projects, including Medipiatto and MELISSA, which focus on AI-driven health solutions. Medipiatto promotes the Mediterranean diet through meal image analysis and personalized dietary suggestions, while MELISSA focuses on AI systems for diabetes care, including meal carbohydrate estimation and personalized insulin adjustments. Additionally, he has helped organize the International Workshop on Multimedia Assisted Dietary Management. He has also served as a lecturer at the University of Bern, for the food/non-food image classification lab, and as a teaching assistant working on data-driven diabetes management. His current scientific interests include machine learning, computer vision, and mHealth."
+    url: "https://www.artorg.unibe.ch/research/aihn/group_members/persons/dr_papathanail_ioannis/index_eng.html"
+    btn_label_1: "About"
+    btn_label_2: "Read More"
+
+saransh:
+  - image_path: /assets/images/people/saransh.jpeg
+    title: Saransh Gupta, <br> Ashoka University <br> (India)
+    size: 200px
+    excerpt: "**Saransh Gupta** is a senior research engineer in the ‘Multimodal Food Computing’ group at Mphasis AI & Applied Tech Lab at Ashoka University. He studied Computer Science and Finance at BITS Pilani and worked as a software engineer at Symantec Corporation for 2.5 years in the STAR (Security Technology and Response) team where his responsibilities included software R&D, optimizing the algorithmic flows, mitigating risks, and improving the efficacy of functional security products. His newfound research interests at the intersection of language, cognition, computation and society led him to pursue the Young India Fellowship and complete an interdisciplinary masters in Computer Science and Psychology, both at Ashoka University. His current work pertains to multimodal AI, system design, data mining, large-language models, natural language processing, and ontology design for building a knowledge graph for Indian food."
+    url: "https://www.linkedin.com/in/saranshkg"
     btn_label_1: "About"
     btn_label_2: "Read More"
 
 ---
 
-{% include feature_row %}
+<hr>
 
-> <p style="font-size: 0.9em;">The core organizing committee is composed of the following international scientists and interdisciplinary researchers:</p>
+>
+The core organizing committee of MMFood'25 is composed of the following international scientists and interdisciplinary food computing researchers.
 
-{% include feature_row_custom id="partha" type="left" %}
-{% include feature_row_custom id="lipika" type="left" %}
+#### Patron
 {% include feature_row_custom id="ramesh" type="left" %}
-{% include feature_row_custom id="shuqiang" type="left" %}
+
+#### General Chairs
+
 {% include feature_row_custom id="stavroula" type="left" %}
+{% include feature_row_custom id="shuqiang" type="left" %}
+{% include feature_row_custom id="partha" type="left" %}
+
+#### Program Committee Chairs
 {% include feature_row_custom id="marianna" type="left" %}
+{% include feature_row_custom id="lipika" type="left" %}
+
+#### Publicity Chairs
 {% include feature_row_custom id="yoko" type="left" %}
+{% include feature_row_custom id="maija" type="left" %}
 
-
-### Steering Committee
-
-**[TBD]**
-
-### Organizing Committee
-
-**[TBD]**
-
-### Program Committee
-
-**[TBD]**
+#### Publication Chairs
+{% include feature_row_custom id="ioannis" type="left" %}
+{% include feature_row_custom id="saransh" type="left" %}

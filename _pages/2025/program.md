@@ -6,26 +6,26 @@ permalink: /2025/program/
 classes: single
 ---
 
+<hr>
+
 ### Keynote Speakers
+>
 **[TBD]**
 
 ### Panel Discussion
+>
 **[TBD]**
 
-### Publication and Presentation 
-All accepted papers will be a part of the conference proceedings.
-
-#### Technical Papers
+### Oral Presentations 
+>
 **[TBD]**
 
-#### Student Papers
+### Technical Papers
+>
 **[TBD]**
 
-#### Oral Posters
-**[TBD]**
-
-### Hackathon
+### Oral Posters
+>
 **[TBD]**
 
 ### Schedule
-**[TBD]**

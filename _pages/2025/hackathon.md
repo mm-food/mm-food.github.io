@@ -5,4 +5,7 @@ permalink: /2025/hackathon/
 toc: false
 ---
 
+<hr>
+
+>
 **[TBD]**
