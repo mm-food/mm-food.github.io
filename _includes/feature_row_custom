@@ -84,7 +84,7 @@
           <div class="archive__item-teaser">
             <img src="{% if f.image_path contains '://' %}{{ f.image_path }}{% else %}{{ f.image_path | relative_url }}{% endif %}" 
                  alt="{{ f.alt | default: 'Feature image' }}" 
-                 style="width: {{ f.size | default: '100%' }}; height: auto; cursor: pointer;" >
+                 style="width: {{ f.size | default: '100%' }}; height: auto; max-height: 180px; cursor: pointer;" >
           </div>
         {% endif %}
     

@@ -44,6 +44,15 @@ shuqiang:
     btn_label_1: "About"
     btn_label_2: "Read More"
 
+weiqing:
+  - image_path: /assets/images/people/weiqing.jpg
+    title: Dr. Weiqing Min, <br> University of Chinese Academy of Sciences <br> (China)
+    size: 150px
+    excerpt: "**Dr. Weiqing Min Jiang** is an associate professor at the Key Laboratory of Intelligent Information Processing (IIP), Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). He received the Ph.D. degree from the National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences under the supervision of Prof. Changsheng Xu. His research is in the areas of multimedia content analysis and AI for food science. Dr. Min has authored and co-authored more than 70 peer-referenced papers in relevant journals and conferences, including IEEE Trans. on Pattern Analysis and Machine Intelligence, Patterns(Cell Press), ACM Computing Surveys, Trends in Food Science & Technology, IEEE Trans. on Image Processing, Food Chemistry, ACM MM, AAAI, IJCAI, etc. He has served as the Associate Editor of IEEE TMM and ACM MM2021/ICME 2022-2025 Area Chair. He is also the reviewer of many prestigious international journals including Nature Food, Patterns (Cell Press), Advanced Science, IEEE TIP/TMM, etc. He is a distinguished member of CCF, and senior member of IEEE, CSIG and Chinese Institute of Food Science and Technology. He is the recipient of 2024 Beijing Outstanding Youth Fund, 2023 CSIG Young Scientists Award, Second Prize of 2020 Beijing Science and Technology Progress Award, 2020 ACM CHINA SIGMM RISING STAR AWARD. He is also the recipient of 2016 ACM TOMM Nicolas D. Georganas Best Paper Award and 2017 IEEE Multimedia Magazine Best Paper Award."
+    url: "http://123.57.42.89/foodcomputing/weiqingmin/home.html"
+    btn_label_1: "About"
+    btn_label_2: "Read More"
+
 stavroula:
   - image_path: /assets/images/people/stavroula.jpg
     title: Dr. Stavroula-Georgia Mougiakakou, <br> University of Bern <br> (Switzerland)
@@ -115,6 +124,7 @@ The core organizing committee of MMFood'25 is composed of the following internat
 {% include feature_row_custom id="partha" type="left" %}
 
 #### Program Committee Chairs
+{% include feature_row_custom id="weiqing" type="left" %}
 {% include feature_row_custom id="marianna" type="left" %}
 {% include feature_row_custom id="lipika" type="left" %}
 
