@@ -13,13 +13,16 @@ excerpt: "1st International Workshop on Multi-modal Food Computing"
 permalink: /2025/
 intro: 
   - excerpt: '<i class="fas fa-map-marker-alt"></i> Venue: Dublin, Ireland ------ <i class="fas fa-calendar-alt"></i> Date: 27/28 October, 2025 <br> <br> <i class="fa-solid fa-circle-info"></i> The MMFood''25 workshop will be hosted on-site at the 33rd ACM International Conference on Multimedia (ACMMM25). <br> <br> [<i class="fas fa-envelope"></i> mmfood.contact@gmail.com](mailto:mmfood.contact@gmail.com)
-'
+
 ---
 
 {% include feature_row id="intro" type="center" %}
 
 
 ### News
+<div class="notice--info">
+  <h4>The deadline for new paper submissions deadline has been extended to <a href ="/2025/cfp/" class ="alert-link"><b> 18th July EoD AoE (strict).</b></a></h4>
+</div>
 <div class="notice--info">
   <h4>The call for papers is open now for MMFood'25! Click <a href="/2025/cfp/" class="alert-link">here</a> to know more.</h4>
 </div>
