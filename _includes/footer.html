@@ -8,7 +8,18 @@
     <span style="width: 100%; text-align: center; margin: 10px 0;">
         <img src="/assets/images/banner/organization.png" alt="organization" style="max-width: 800px; width: 100%; height: auto;">
     </span>
-    
+
+    <span style="width: 100%; text-align: right; margin: 10px 0;">
+    <a href="https://www.ashoka.edu.in/page/mphasis-lab/" rel="nofollow" style="text-decoration: none;">
+        <div style="display: inline-block; text-align: center;">
+        <div style="margin-bottom: 5px;">
+            {{ site.data.ui-text[site.locale].sponsored_by | default: "Sponsored by" }}
+        </div>
+        <img src="/assets/images/banner/sponsor.jpeg" alt="organization" style="max-width: 200px; width: 100%; height: auto;">
+        </div>
+    </a>
+    </span>
+        
     <span style="width: 100%; text-align: right;">
         {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} 
         <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; 

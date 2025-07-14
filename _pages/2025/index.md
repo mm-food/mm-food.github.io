@@ -21,7 +21,10 @@ intro:
 
 ### News
 <div class="notice--info">
-  <h4>The deadline for new paper submissions deadline has been extended to <a href ="/2025/cfp/" class ="alert-link"><b> 18th July EoD AoE (strict).</b></a></h4>
+  <h4>In addition to the full papers (4–8 pages), we also invite short papers (up to 4 pages) that present early-stage work, novel ideas, or innovative applications. More information can be found <a href ="/2025/cfp/#short-paper" class ="alert-link"><b> here.</b></a></h4>
+</div>
+<div class="notice--info">
+  <h4>The deadline for new paper submissions deadline has been extended to <a href ="/2025/cfp/#important-dates" class ="alert-link"><b> 18th July EoD AoE (strict).</b></a></h4>
 </div>
 <div class="notice--info">
   <h4>The call for papers is open now for MMFood'25! Click <a href="/2025/cfp/" class="alert-link">here</a> to know more.</h4>

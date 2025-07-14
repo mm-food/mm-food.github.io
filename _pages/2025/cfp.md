@@ -33,15 +33,17 @@ We welcome submissions on a broad range of topics, including but not limited to 
 The submission deadline is at **(23:59) 11:59 p.m.** of the stated deadline date **AoE** (Anywhere on Earth).
 
 >
-<del> <i class="fa-solid fa-calendar-days"></i> New paper submission deadline: **11th July**, 2025 </del> <br>
-<i class="fa-solid fa-calendar-days"></i> <b>Extended</b> New paper submission deadline: **18th July**, 2025 (strict)<br>
+<del> <i class="fa-solid fa-calendar-days"></i> New full paper submission deadline: **11th July**, 2025 </del> <br>
+<i class="fa-solid fa-calendar-days"></i> <b>Extended</b> New <b>full</b> paper submission deadline: **18th July**, 2025 (strict)<br>
+<del> <i class="fa-solid fa-calendar-days"></i> New short paper submission deadline: **11th July**, 2025 </del> <br>
+<i class="fa-solid fa-calendar-days"></i> <b>Extended</b> New <b>short</b> paper submission deadline: **18th July**, 2025 (strict)<br>
 <i class="fa-solid fa-calendar-days"></i> Notification of acceptance: **1st August**, 2025 <br>
-<i class="fa-solid fa-calendar-days"></i> Camera-ready paper submission deadline: **11th August**, 2025 <br>
+<i class="fa-solid fa-calendar-days"></i> Camera-ready paper (full and short) submission deadline: **11th August**, 2025 <br>
 <i class="fa-solid fa-calendar-days"></i> Workshop date: **27th/28th October**, 2025
 
 
 ### Submission and Review
-All accepted papers will be included in the **ACM MM Workshop proceedings series** by ACM/Sheridan publishing.
+All accepted papers (both full and short) will be included in the **ACM MM Workshop proceedings series** by ACM/Sheridan publishing.
 
 <i class="fa-solid fa-thumbtack"></i> We strongly encourage you to review the general **ACM author guidelines** <a href="https://acmmm2025.org/information-for-authors/" target="_blank">here</a>.
 
@@ -55,8 +57,16 @@ As per ACM guidelines, authors may upload preprints to **arXiv or similar non-pe
 
 <i class="fa-solid fa-circle-info"></i> Authors **must not** include names, affiliations, or any identifying information in their submissions. Self-references should be written in the third person. Names will be added in the **camera-ready** version upon acceptance.
 
-#### Paper Length and Format 
-Workshop papers should be 4-8 pages, with up to an additional 2 pages of references.
+#### Full Paper
+<i class="fa-solid fa-thumbtack"></i> Full workshop papers should be 4-8 pages, with up to an additional 2 pages of references.
+
+#### Short Paper
+<i class="fa-solid fa-thumbtack"></i> Short workshop papers should be a maximum of 4 pages, with up to an additional 2 pages of references.
+
+>
+Short papers can present early-stage work, novel ideas, initial experiments or innovative applications. They are are ideal for sharing work-in-progress or exploratory research that may not yet have full experimental validation. Short papers will also be published in the ACM MM Workshop proceedings series.
+
+#### Paper Format
 
 <i class="fa-solid fa-thumbtack"></i> ACM Article Template is available <a href="https://www.acm.org/publications/proceedings-template" target="_blank">here</a>. Please ensure that you submit your papers subscribing to this format.
 
