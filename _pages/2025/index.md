@@ -12,7 +12,7 @@ header:
 excerpt: "1st International Workshop on Multi-modal Food Computing"
 permalink: /2025/
 intro: 
-  - excerpt: '<i class="fas fa-map-marker-alt"></i> Venue: Dublin, Ireland ------ <i class="fas fa-calendar-alt"></i> Date: 27/28 October, 2025 <br> <br> <i class="fa-solid fa-circle-info"></i> Host: The MMFood''25 workshop will be hosted on-site at the <b> 33rd ACM International Conference on Multimedia (ACMMM25)</b>. <br> <br> <i class="fa-solid fa-building-columns"></i> Acknowledgement: This workshop has been supported by the <b> Mphasis AI & Applied Tech Lab at Ashoka </b> - a collaboration between Ashoka University and Mphasis Limited. <br> <br> <i class="fas fa-envelope"></i> Contact: [mmfood.contact@gmail.com](mailto:mmfood.contact@gmail.com)'
+  - excerpt: '<i class="fas fa-map-marker-alt"></i> Venue: Dublin, Ireland ------ <i class="fas fa-calendar-alt"></i> Date: 27/28 October, 2025 <br> <br> <i class="fa-solid fa-circle-info"></i> Host: The MMFood''25 workshop will be hosted on-site at the <b> 33rd ACM International Conference on Multimedia (ACMMM25)</b>. <br> <br> <i class="fa-solid fa-building-columns"></i> Acknowledgement: This workshop has been supported by the <b> Mphasis AI & Applied Tech Lab at Ashoka </b> - a collaboration between Ashoka University and Mphasis Limited (India). <br> <br> <i class="fas fa-envelope"></i> Contact: [mmfood.contact@gmail.com](mailto:mmfood.contact@gmail.com)'
 
 ---
 
