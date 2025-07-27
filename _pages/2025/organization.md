@@ -70,6 +70,114 @@ marianna:
     url: "https://profiles.ucl.ac.uk/78441-marianna-obrist"
     btn_label_1: "About"
     btn_label_2: "Read More"
+
+tirthankar:
+  - image_path: /assets/images/people/tirthankar.jpg
+    title: Dr. Tirthankar Dasgupta, <br> TATA Consultancy Services <br> (India)
+    size: 200px
+    excerpt: ""
+    url: "https://scholar.google.com/citations?user=a5Wu1g8AAAAJ&hl=en"
+    btn_label_1: "About"
+    btn_label_2: "Read More"
+
+sarfaraz:
+  - image_path: /assets/images/people/sarfaraz.jpg
+    title: Dr. Mohammad Sarfaraz, <br> Ashoka University <br> (India)
+    size: 200px
+    excerpt: ""
+    url: ""
+    btn_label_1: "About"
+    btn_label_2: "Read More"
+
+ganesh:
+  - image_path: /assets/images/people/ganesh.jpg
+    title: Dr. Ganesh Bagler, <br> IIIT Delhi <br> (India)
+    size: 200px
+    excerpt: ""
+    url: "https://iiitd.ac.in/bagler"
+    btn_label_1: "About"
+    btn_label_2: "Read More"
+
+geeta:
+  - image_path: /assets/images/people/geeta.jpeg
+    title: Dr. Geeta Trilok-Kumar, <br> Ashoka University <br> (India)
+    size: 200px
+    excerpt: ""
+    url: "https://www.ashoka.edu.in/profile/geeta-trilok-kumar/"
+    btn_label_1: "About"
+    btn_label_2: "Read More"
+
+ichiro:
+  - image_path: /assets/images/people/ichiro.jpg
+    title: Dr. Ichiro Ide, <br> Nagoya University <br> (Japan)
+    size: 200px
+    excerpt: ""
+    url: "https://www.cs.is.i.nagoya-u.ac.jp/people/ichiro-ide/"
+    btn_label_1: "About"
+    btn_label_2: "Read More"
+
+kenji:
+  - image_path: /assets/images/people/kenji.jpg
+    title: Dr. Kenji Hatano, <br> Doshisha University <br> (Japan)
+    size: 200px
+    excerpt: ""
+    url: "https://kendb.doshisha.ac.jp/profile/en.c77cf09afb999822.html"
+    btn_label_1: "About"
+    btn_label_2: "Read More"
+
+santanu:
+  - image_path: /assets/images/people/santanu.jpg
+    title: Dr. Santanu Chaudhury, <br> Indian Institute of Technology (IIT) Delhi <br> (India)
+    size: 200px
+    excerpt: ""
+    url: "https://web.iitd.ac.in/~santanuc/"
+    btn_label_1: "About"
+    btn_label_2: "Read More"
+
+mayank:
+  - image_path: /assets/images/people/mayank.png
+    title: Dr. Mayank Garg, <br> Ashoka University <br> (India)
+    size: 200px
+    excerpt: ""
+    url: "https://www.ashoka.edu.in/profile/mayank-garg/"
+    btn_label_1: "About"
+    btn_label_2: "Read More"
+
+prajna:
+  - image_path: /assets/images/people/prajna.png
+    title: Dr. Prajna Upadhyay, <br> BITS Pilani, Hyderabad <br> (India)
+    size: 200px
+    excerpt: ""
+    url: "https://www.bits-pilani.ac.in/hyderabad/dr-prajna-devi-upadhyay"
+    btn_label_1: "About"
+    btn_label_2: "Read More"
+
+soumen:
+  - image_path: /assets/images/people/soumen.jpg
+    title: Dr. Soumen Paul, <br> 	LightMetrics Technologies Pvt. Ltd <br> (India)
+    size: 200px
+    excerpt: ""
+    url: "https://scholar.google.com/citations?hl=en&user=gtK73cU9_3cC&view_op=list_works&sortby=pubdate"
+    btn_label_1: "About"
+    btn_label_2: "Read More"
+
+soumajit:
+  - image_path: /assets/images/people/soumajit.jpg
+    title: Dr. Soumajit Pramanik, <br> Indian Institute of Technology (IIT)  Bhilai <br> (India)
+    size: 200px
+    excerpt: ""
+    url: "https://www.iitbhilai.ac.in/index.php?pid=soumajit"
+    btn_label_1: "About"
+    btn_label_2: "Read More"
+
+raghava:
+  - image_path: /assets/images/people/raghava.jpg
+    title: Dr. V. Raghava Mutharaju, <br> IIIT Delhi <br> (India)
+    size: 200px
+    excerpt: ""
+    url: "https://iiitd.ac.in/raghavam"
+    btn_label_1: "About"
+    btn_label_2: "Read More"
   
 yoko:
   - image_path: /assets/images/people/yoko.jpg
@@ -127,6 +235,17 @@ The core organizing committee of MMFood'25 is composed of the following internat
 {% include feature_row_custom id="weiqing" type="left" %}
 {% include feature_row_custom id="marianna" type="left" %}
 {% include feature_row_custom id="lipika" type="left" %}
+{% include feature_row_custom id="tirthankar" type="left" %}
+{% include feature_row_custom id="bagler" type="left" %}
+{% include feature_row_custom id="geeta" type="left" %}
+{% include feature_row_custom id="ichiro" type="left" %}
+{% include feature_row_custom id="kenji" type="left" %}
+{% include feature_row_custom id="santanu" type="left" %}
+{% include feature_row_custom id="prajna" type="left" %}
+{% include feature_row_custom id="soumajit" type="left" %}
+{% include feature_row_custom id="raghava" type="left" %}
+{% include feature_row_custom id="mayank" type="left" %}
+{% include feature_row_custom id="soumen" type="left" %}
 
 #### Publicity Chairs
 {% include feature_row_custom id="yoko" type="left" %}
