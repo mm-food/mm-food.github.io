@@ -236,7 +236,7 @@ The core organizing committee of MMFood'25 is composed of the following internat
 {% include feature_row_custom id="marianna" type="left" %}
 {% include feature_row_custom id="lipika" type="left" %}
 {% include feature_row_custom id="tirthankar" type="left" %}
-{% include feature_row_custom id="bagler" type="left" %}
+{% include feature_row_custom id="ganesh" type="left" %}
 {% include feature_row_custom id="geeta" type="left" %}
 {% include feature_row_custom id="ichiro" type="left" %}
 {% include feature_row_custom id="kenji" type="left" %}
