@@ -33,12 +33,9 @@ We welcome submissions on a broad range of topics, including but not limited to 
 The submission deadline is at **(23:59) 11:59 p.m.** of the stated deadline date **AoE** (Anywhere on Earth).
 
 >
-<del> <i class="fa-solid fa-calendar-days"></i> New full paper submission deadline: **11th July**, 2025 </del> <br>
-<i class="fa-solid fa-calendar-days"></i> <b>Extended</b> New <b>full</b> paper submission deadline: **18th July**, 2025 (strict)<br>
-<del> <i class="fa-solid fa-calendar-days"></i> New short paper submission deadline: **11th July**, 2025 </del> <br>
-<i class="fa-solid fa-calendar-days"></i> <b>Extended</b> New <b>short</b> paper submission deadline: **18th July**, 2025 (strict)<br>
-<i class="fa-solid fa-calendar-days"></i> Notification of acceptance: **1st August**, 2025 <br>
-<i class="fa-solid fa-calendar-days"></i> Camera-ready paper (full and short) submission deadline: **11th August**, 2025 <br>
+<i class="fa-solid fa-calendar-days"></i> <b>Extended</b> new paper <b>(full and short)</b> submission deadline: <del>**11th**</del> **18th July**, 2025 (strict)<br>
+<i class="fa-solid fa-calendar-days"></i> <b>Updated</b> notification of acceptance: <del>**1st**</del> **5th August**, 2025 <br>
+<i class="fa-solid fa-calendar-days"></i> <b>Extended</b> camera-ready paper <b>(full and short)</b> submission deadline: <del>**11th**</del> **13th August**, 2025 (strict)<br>
 <i class="fa-solid fa-calendar-days"></i> Workshop date: **27th/28th October**, 2025
 
 

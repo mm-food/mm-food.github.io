@@ -81,7 +81,7 @@ tirthankar:
     btn_label_2: "Read More"
 
 sarfaraz:
-  - image_path: /assets/images/people/sarfaraz.jpg
+  - image_path: /assets/images/people/sarfaraz.png
     title: Dr. Mohammad Sarfaraz, <br> Ashoka University <br> (India)
     size: 200px
     excerpt: ""
@@ -235,6 +235,11 @@ The core organizing committee of MMFood'25 is composed of the following internat
 {% include feature_row_custom id="weiqing" type="left" %}
 {% include feature_row_custom id="marianna" type="left" %}
 {% include feature_row_custom id="lipika" type="left" %}
+
+#### Program Committee Members
+>We gratefully acknowledge the contributions of the following individuals for their valuable support in reviewing submissions and contributing to the success of the workshop program.
+
+{% include feature_row_custom id="sarfaraz" type="left" %}
 {% include feature_row_custom id="tirthankar" type="left" %}
 {% include feature_row_custom id="ganesh" type="left" %}
 {% include feature_row_custom id="geeta" type="left" %}
