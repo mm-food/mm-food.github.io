@@ -8,9 +8,14 @@ classes: single
 
 <hr>
 
-### Keynote Speakers
+### Keynote Talk
 >
-**[TBD]**
+![Dr. Ganesh Bagler](/assets/images/people/ganesh.jpg) <br><br>
+**<span style="font-size:1.3em;">Dr. Ganesh Bagler</span>**  
+*Infosys Centre for Artificial Intelligence & Complex Systems Laboratory, **Indraprastha Institute of Information Technology, Delhi (India)*** <br><br>
+**Bio:** As a teenager, Ganesh Bagler aspired to be an astronomer. Trained in physics, computer science, and computational biology, he has had an adventurous journey from astronomy to gastronomy. Prof. Bagler is known for his pioneering research in ‘Computational Gastronomy.’ By building keystone data repositories, algorithms, and applications, his lab has established the foundations of this emerging data science that blends food with artificial intelligence. Innovative research from his lab has contributed to this niche dealing with food, flavors, nutrition, health, and sustainability. Dr. Bagler has an audacious dream of transforming the food landscape by making food computable. <br><br>
+**Title: <span style="text-decoration: underline;">Computational Gastronomy: Making Food Computable</span>**
+
 
 ### Panel Discussion
 >
@@ -42,7 +47,7 @@ classes: single
 >**TATVA: Turmeric Adulteration Detection using Thermal Video Analysis**  
 *Rupinder Kaur, Shahbaz Ahmad Khanday, Simrandeep Singh, Uday Thakur, Ashish Verma and Mukesh Saini.*
 
-### Short Papers / Poster Presentations
+### Short Papers / Poster Session
 >
 >**Diffusion-Guided 3D-Aware Calorie Estimation from a Single Food Image**  
 *Mayu Ogishi, Hikaru Tanabe and Keiji Yanai.*

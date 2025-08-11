@@ -58,7 +58,7 @@ As per ACM guidelines, authors may upload preprints to **arXiv or similar non-pe
 <i class="fa-solid fa-thumbtack"></i> Full workshop papers should be 4-8 pages, with up to an additional 2 pages of references.
 
 #### Short Paper
-<i class="fa-solid fa-thumbtack"></i> Short workshop papers should be a maximum of 4 pages, with up to an additional 2 pages of references.
+<i class="fa-solid fa-thumbtack"></i> Short workshop papers should be a maximum of 5 pages, with up to an additional 2 pages of references.
 
 >
 Short papers can present early-stage work, novel ideas, initial experiments or innovative applications. They are ideal for sharing work-in-progress or exploratory research that may not yet have full experimental validation. Short papers will also be published in the ACM MM Workshop proceedings series.
