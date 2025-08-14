@@ -14,7 +14,7 @@ legend:
     - name: 
       color: orange-3
 days:
-- name: (Monday/Tuesday, October 27/28th)
+- name: (Monday/Tuesday, October 28th)
   events:
     - title: Session 1
       session: true
