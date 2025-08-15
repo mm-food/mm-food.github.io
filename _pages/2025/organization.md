@@ -152,6 +152,15 @@ prajna:
     btn_label_1: "About"
     btn_label_2: "Read More"
 
+anirban:
+  - image_path: /assets/images/people/anirban.jpeg
+    title: Dr. Anirban Sen, <br> Ashoka University <br> (India)
+    size: 200px
+    excerpt: ""
+    url: "https://www.ashoka.edu.in/profile/anirban-sen/"
+    btn_label_1: "About"
+    btn_label_2: "Read More"
+
 soumen:
   - image_path: /assets/images/people/soumen.jpg
     title: Dr. Soumen Paul, <br> 	LightMetrics Technologies Pvt. Ltd <br> (India)
@@ -236,22 +245,6 @@ The core organizing committee of MMFood'25 is composed of the following internat
 {% include feature_row_custom id="marianna" type="left" %}
 {% include feature_row_custom id="lipika" type="left" %}
 
-#### Program Committee Members
->We gratefully acknowledge the contributions of the following individuals for their valuable support in reviewing submissions and contributing to the success of the workshop program.
-
-{% include feature_row_custom id="sarfaraz" type="left" %}
-{% include feature_row_custom id="tirthankar" type="left" %}
-{% include feature_row_custom id="ganesh" type="left" %}
-{% include feature_row_custom id="geeta" type="left" %}
-{% include feature_row_custom id="ichiro" type="left" %}
-{% include feature_row_custom id="kenji" type="left" %}
-{% include feature_row_custom id="santanu" type="left" %}
-{% include feature_row_custom id="prajna" type="left" %}
-{% include feature_row_custom id="soumajit" type="left" %}
-{% include feature_row_custom id="raghava" type="left" %}
-{% include feature_row_custom id="mayank" type="left" %}
-{% include feature_row_custom id="soumen" type="left" %}
-
 #### Publicity Chairs
 {% include feature_row_custom id="yoko" type="left" %}
 {% include feature_row_custom id="maija" type="left" %}
@@ -259,3 +252,24 @@ The core organizing committee of MMFood'25 is composed of the following internat
 #### Publication Chairs
 {% include feature_row_custom id="ioannis" type="left" %}
 {% include feature_row_custom id="saransh" type="left" %}
+
+#### Program Committee
+>We gratefully acknowledge the contributions of the following individuals for their valuable support in reviewing submissions and contributing to the success of the MMFood'25 workshop program.
+
+{% include feature_row_custom id="anirban" type="left" %}
+{% include feature_row_custom id="ganesh" type="left" %}
+{% include feature_row_custom id="geeta" type="left" %}
+{% include feature_row_custom id="ichiro" type="left" %}
+{% include feature_row_custom id="kenji" type="left" %}
+{% include feature_row_custom id="lipika" type="left" %}
+{% include feature_row_custom id="marianna" type="left" %}
+{% include feature_row_custom id="mayank" type="left" %}
+{% include feature_row_custom id="sarfaraz" type="left" %}
+{% include feature_row_custom id="partha" type="left" %}
+{% include feature_row_custom id="prajna" type="left" %}
+{% include feature_row_custom id="raghava" type="left" %}
+{% include feature_row_custom id="santanu" type="left" %}
+{% include feature_row_custom id="soumajit" type="left" %}
+{% include feature_row_custom id="soumen" type="left" %}
+{% include feature_row_custom id="stavroula" type="left" %}
+{% include feature_row_custom id="tirthankar" type="left" %}
