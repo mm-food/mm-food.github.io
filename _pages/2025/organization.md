@@ -190,7 +190,7 @@ raghava:
   
 yoko:
   - image_path: /assets/images/people/yoko.jpg
-    title: Dr. Yoko Yamakata, <br> University of Tokyo <br> (Japan)
+    title: Yoko Yamakata, <br> University of Tokyo <br> (Japan)
     size: 200px
     excerpt: "**Prof. Yoko Yamakata** received a Ph.D. in Informatics from Kyoto University in 2007. From 2010 to 2016, she served as a Lecturer and later an Associate Professor at Kyoto University. In 2015, she became a JSPS Research Fellow and spent time as a Visiting Researcher at the University of Sussex in the UK, accompanied by two children. In 2019, she joined the University of Tokyo as an Associate Professor in the Graduate School of Information Science and Technology, and in 2024, became a Professor at the Information Technology Center of the University of Tokyo. Her research interests focus on multimedia information processing."
     url: "https://www.iii.u-tokyo.ac.jp/faculty/yamakata_yoko"
