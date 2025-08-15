@@ -163,7 +163,7 @@ anirban:
 
 soumen:
   - image_path: /assets/images/people/soumen.jpg
-    title: Dr. Soumen Paul, <br> 	LightMetrics Technologies Pvt. Ltd <br> (India)
+    title: Soumen Paul, <br> 	LightMetrics Technologies Pvt. Ltd <br> (India)
     size: 200px
     excerpt: ""
     url: "https://scholar.google.com/citations?hl=en&user=gtK73cU9_3cC&view_op=list_works&sortby=pubdate"
@@ -172,7 +172,7 @@ soumen:
 
 soumajit:
   - image_path: /assets/images/people/soumajit.jpg
-    title: Dr. Soumajit Pramanik, <br> Indian Institute of Technology (IIT)  Bhilai <br> (India)
+    title: Soumajit Pramanik, <br> Indian Institute of Technology (IIT)  Bhilai <br> (India)
     size: 200px
     excerpt: ""
     url: "https://www.iitbhilai.ac.in/index.php?pid=soumajit"
@@ -181,7 +181,7 @@ soumajit:
 
 raghava:
   - image_path: /assets/images/people/raghava.jpg
-    title: Dr. V. Raghava Mutharaju, <br> IIIT Delhi <br> (India)
+    title: V. Raghava Mutharaju, <br> IIIT Delhi <br> (India)
     size: 200px
     excerpt: ""
     url: "https://iiitd.ac.in/raghavam"
