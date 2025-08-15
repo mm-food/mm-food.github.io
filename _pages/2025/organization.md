@@ -217,9 +217,9 @@ ioannis:
 
 saransh:
   - image_path: /assets/images/people/saransh.jpeg
-    title: Saransh Gupta, <br> Ashoka University <br> (India)
+    title: Saransh Kumar Gupta, <br> Ashoka University <br> (India)
     size: 200px
-    excerpt: "**Saransh Gupta** is a senior research engineer in the ‘Multimodal Food Computing’ group at Mphasis AI & Applied Tech Lab at Ashoka University. He studied Computer Science and Finance at BITS Pilani and worked as a software engineer at Symantec Corporation for 2.5 years in the STAR (Security Technology and Response) team where his responsibilities included software R&D, optimizing the algorithmic flows, mitigating risks, and improving the efficacy of functional security products. His newfound research interests at the intersection of language, cognition, computation and society led him to pursue the Young India Fellowship and complete an interdisciplinary masters in Computer Science and Psychology, both at Ashoka University. His current work pertains to multimodal AI, system design, data mining, large-language models, natural language processing, and ontology design for building a knowledge graph for Indian food."
+    excerpt: "**Saransh** is a senior research engineer in the ‘Multimodal Food Computing’ group at Mphasis AI & Applied Tech Lab at Ashoka University. He studied Computer Science and Finance at BITS Pilani and worked as a software engineer at Symantec Corporation for 2.5 years in the STAR (Security Technology and Response) team where his responsibilities included software R&D, optimizing the algorithmic flows, mitigating risks, and improving the efficacy of functional security products. His newfound research interests at the intersection of language, cognition, computation and society led him to pursue the Young India Fellowship and complete an interdisciplinary masters in Computer Science and Psychology, both at Ashoka University. His current work pertains to multimodal AI, system design, data mining, large-language models, natural language processing, and ontology design for building a knowledge graph for Indian food."
     url: "https://www.linkedin.com/in/saranshkg"
     btn_label_1: "About"
     btn_label_2: "Read More"
