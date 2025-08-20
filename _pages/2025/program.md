@@ -18,8 +18,41 @@ classes: single
 
 
 ### Panel Discussion
->
-**[TBD]**
+<blockquote>
+<table>
+  <tr>
+    <td align="center" width="200px">
+      <img src="/assets/images/people/ramesh_panel.jpeg"/><br>
+      <b>Prof. Ramesh Jain</b><br>
+      <i>Computer Science and Institute for Future Health, <br> <b> University of California, Irvine <br> (USA) </b></i>
+    </td>
+    <td align="center" width="200px">
+      <img src="/assets/images/people/yoko_panel.jpg"/><br>
+      <b>Prof. Yoko Yamakata</b><br>
+      <i>Information Technology Center, <br> <b> University of Tokyo <br> (Japan) </b></i>
+    </td>
+    <td align="center" width="200px">
+      <img src="/assets/images/people/maija_panel.jpg"/><br>
+      <b>Dr. Maija Kale</b><br>
+      <i>Baltic International Centre for Economic Policy Studies, <br> <b> University of Latvia (Latvia) </b></i>
+    </td>
+    <td align="center" width="200px">
+      <img src="/assets/images/people/ppd_panel.jpeg"/><br>
+      <b>Prof. Partha Pratim Das</b><br>
+      <i>Computer Science and Centre for Data Science and Analytics, <br> <b> Ashoka University <br> (India) </b></i>
+    </td>
+    <td align="center" width="200px">
+      <img src="/assets/images/people/stavroula_panel.jpg"/><br>
+      <b>Prof. Stavroula Mougiakakou</b><br>
+      <i>ARTORG Center for Biomedical Engineering Research, <br> <b> University of Bern <br> (Switzerland) </b></i>
+    </td>
+  </tr>
+</table>
+
+<p><b>Topic: <u>Multimodal Food Computing: Bridging Cultural Heritage, AI, and Sustainable Food Futures</u></b> </p>
+
+<p><b>Themes:</b> Understanding Food Through Multiple Modalities, Cultural Preservation, Data to Insights and Actions, Trustworthy AI for Food Computing</p>
+</blockquote>
 
 ### Full Papers / Oral Presentations
 >
