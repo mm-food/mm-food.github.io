@@ -6,6 +6,8 @@ permalink: /2025/program/
 classes: single
 ---
 
+<hr>
+
 ### Keynote Talk
 >
 ![Dr. Ganesh Bagler](/assets/images/people/ganesh.jpg) <br><br>
