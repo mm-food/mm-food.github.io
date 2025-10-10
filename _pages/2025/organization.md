@@ -85,7 +85,7 @@ sarfaraz:
     title: Mohammad Sarfaraz, <br> Ashoka University <br> (India)
     size: 200px
     excerpt: ""
-    url: ""
+    url: "https://www.ashoka.edu.in/profile/mohammad-sarfraz/"
     btn_label_1: "About"
     btn_label_2: "Read More"
 
