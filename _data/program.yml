@@ -1,42 +1,53 @@
 legend:
   title: Legend
   categories:
-    - name: 
-      color: red-6
-    - name: 
-      color: green-6
-    - name: 
-      color: blue-6
-    - name: 
-      color: teal-6
-    - name: 
-      color: lime-3
-    - name: 
-      color: orange-3
+    - name: talk
+      color: "#dc3545"     # red
+    - name: paper
+      color: "#198754"     # green
+    - name: panel
+      color: "#0d6efd"     # blue
+    - name: poster
+      color: "#fd7e14"     # orange
+      
 days:
-- name: (Monday/Tuesday, October 28th)
+- name: (Tuesday, October 28th)
   events:
-    - title: Session 1
+    - title: Chair’s Address - Day's Program
       session: true
-    - title: TBD
-      subtitle: TBD
-      category: TBD
-      time: '10:00 - 11:30'
-    - title: Session 2
+      time: '09:00 - 09:10'
+    - title: Keynote Talk by Prof. Ganesh Bagler
+      subtitle: Computational Gastronomy - The Emerging Science of Food, Flavors, Nutrition, and Personalized Health
+      category: talk
+      time: '09:15 - 10:30'
+    - title: Morning Tea
       session: true
-    - title: TBD
-      subtitle: TBD
-      category: TBD
-      time: '11:30 - 13:00'
-    - title: Session 3
+      time: '10:30 - 11:00'
+    - title: Full Paper Presentations
+      subtitle: 12 minutes each – including Q&A
+      category: paper
+      time: '11:00 - 12:30'
+    - title: Lunch
       session: true
-    - title: TBD
-      subtitle: TBD
-      category: TBD
-      time: '13:00 - 14:30'
-    - title: Session 4
+      time: '12:30 - 13:30'
+    - title: Invited Talk by Dr. Adarsh Nadig
+      subtitle: There is Nothing Artificial About Taste Intelligence
+      category: talk
+      time: '13:30 - 14:15'
+    - title: Short Paper Presentations
+      subtitle: 5 Minutes Lightning Pitch
+      category: paper
+      time: '14:15 - 14:45'
+    - title: Afternoon Tea
       session: true
-    - title: TBD
-      subtitle: TBD
-      category: TBD
-      time: '14:30 - 17:00'
+      time: '15:00 - 15:30'
+    - title: Panel Discussion
+      subtitle: Multimodal Food Computing - Bridging Cultural Heritage, Artificial Intelligence, and Sustainable Food Futures
+      category: panel
+      time: '15:30 - 16:30'
+    - title: Closing Remarks
+      session: true
+      time: '16:30 - 16:45'
+    - title: Poster Session
+      category: poster
+      time: '16:45 - 18:30'

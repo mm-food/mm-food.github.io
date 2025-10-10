@@ -3,123 +3,176 @@ layout: single
 ---
 
 <main class="my-4">
-    <div class="container">
-        <h3 class="display-5">{{ title }}</h3>
-        {{ content }}
-        {% if site.data.program %}
-        <hr class="my-4">
-        <div class="row">
-            <div class="accordion">
-                {% for day in site.data.program.days %}
-                {% assign slug = day.name | slugify %}
-                <div class="accordion-item">
-                    <h5 class="accordion-header">
-                        <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                            data-bs-target="#{{ slug }}" aria-expanded="true" aria-controls="{{ slug }}">
-                            <span class="h5 m-0 w-100 text-center">
-                                {{ day.name }}
-                            </span>
-                        </button>
-                    </h5>
-                    <div id="{{ slug }}" class="accordion-collapse collapse show">
-                        <div class="accordion-body mt-2">
-                            {% assign categories = site.data.program.legend.categories %}
-                            <ul class="list-unstyled ms-3 ms-lg-0 lh-sm">
-                                {% for event in day.events %}
-                                {% if event.session %}
-                                </br>
-                                <center>
-                                    <h5>{{ event.title }}</h5>
-                                    {% if event.subtitle %}
-                                    <small>
-                                        <p class="fw-light m-0">{{ event.subtitle }}</p></br>
-                                    </small>
-                                    {% endif %}
-                                </center>
-                                {% else %}
-                                {% if event.category %}
-                                {% assign category = categories | find: 'name', event.category %}
-                                {% assign color = category.color %}
-                                {% else %}
-                                {% assign color = 'gray-4' %}
-                                {% endif %}
-                                <li class="d-flex flex-column flex-lg-row">
-                                    {% assign classes = color | prepend: 'border-start border-3 border-' %}
-                                    {% if event.time %}
-                                    <div class="row col-lg-2 pb-2 {{ classes }} border-lg-0">
-                                        <small class="fw-light text-muted">{{ event.time }}</small>
-                                    </div>
-                                    {% endif %}
-                                    {% unless forloop.last %}
-                                    {% assign classes = classes | append: ' mb-4' %}
-                                    {% endunless %}
-                                    <div class="row col-lg-10 {{ classes }}">
-                                        <h5 class="fw-normal m-0 mb-2">{{ event.title }}</h5>
-                                        <p class="fw-light m-0">{{ event.subtitle }}</p>
-                                        <p class="fw-light m-0">
-                                            {% if event.link.first %}
-                                            {% for link in event.link %}
-                                            <a href="{{ link }}" target="_blank">[link {{ forloop.index }}]</a>
-                                            {% endfor %}
-                                            {% elsif event.link %}
-                                            <a href="{{ event.link }}" target="_blank">[link]</a>
-                                            {% endif %}
-                                            {% if event.poster.first %}
-                                            {% for poster in event.poster %}
-                                            <a href="{{ poster }}" target="_blank">[Poster {{ forloop.index }}]</a>
-                                            {% endfor %}
-                                            {% elsif event.poster %}
-                                            <a href="{{ event.poster }}" target="_blank">[Poster]</a>
-                                            {% endif %}
-                                            {% if event.slides.first %}
-                                            {% for slides in event.slides %}
-                                            <a href="{{ slides }}" target="_blank">[Slides {{ forloop.index }}]</a>
-                                            {% endfor %}
-                                            {% elsif event.slides %}
-                                            <a href="{{ event.slides }}" target="_blank">[Slides]</a>
-                                            {% endif %}
-                                            {% if event.video.first %}
-                                            {% for video in event.video %}
-                                            <a href="{{ video }}" target="_blank">[Video {{ forloop.index }}]</a>
-                                            {% endfor %}
-                                            {% elsif event.video %}
-                                            <a href="{{ event.video }}" target="_blank">[Video]</a>
-                                            {% endif %}
-                                        </p>
-                                    </div>
-                                </li>
-                                {% endif %}
-                                {% endfor %}
-                            </ul>
-                            {% assign legend = day.events | map: 'category' | compact | uniq %}
-                            {% assign size = legend | size %}
-                            {% if size > 0 %}
-                            <div class="mt-4 mb-2">
-                                <center>
-                                    {% if site.data.program.legend.title %}
-                                    <h5 class="fw-normal">{{ site.data.program.legend.title }}</h5>
-                                    {% endif %}
-                                    {% for item in legend %}
-                                    {% assign border = categories | where: 'name', item | map: 'color' | first %}
-                                    {% assign bg = border | split: '-' | first | prepend: 'bg-' | append: '-1' %}
-                                    {% assign classes = border | prepend: ' border-' | prepend: bg %}
-                                    {% unless forloop.last %}
-                                    {% assign classes = classes | append: ' me-lg-2' %}
-                                    {% endunless %}
-                                    {% if border %}
-                                    <small
-                                        class="d-block d-lg-inline-block mt-2 px-3 py-1 border-start border-3 {{ classes }}">{{
-                                        item | upcase }}</small>
-                                    {% endif %}
-                                    {% endfor %}
-                                </center>
-                            </div>
-                            {% endif %}
+  <div class="container">
+    <h3 class="display-5">{{ title }}</h3>
+    {{ content }}
+
+    {% if site.data.program %}
+    <hr class="my-4">
+    <div class="row">
+      <div class="accordion w-100">
+
+        {% assign categories = site.data.program.legend.categories %}
+
+        {% for day in site.data.program.days %}
+        {% assign slug = day.name | slugify %}
+        <div class="accordion-item">
+          <h5 class="accordion-header">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse"
+              data-bs-target="#{{ slug }}" aria-expanded="true" aria-controls="{{ slug }}">
+              <span class="h5 m-0 w-100 text-center">{{ day.name }}</span>
+            </button>
+          </h5>
+
+          <div id="{{ slug }}" class="accordion-collapse collapse show">
+            <div class="accordion-body mt-2">
+              <ul class="list-unstyled ms-3 ms-lg-0 lh-sm">
+
+                {% for event in day.events %}
+                {%- comment -%}
+                  Always render a row that contains:
+                    - left column (time)
+                    - right column (content)
+                  Session items get special single-line styling (time + centered title)
+                {%- endcomment -%}
+
+                {% assign is_session = event.session %}
+                {% assign event_time = event.time %}
+
+                <li class="d-flex flex-column flex-lg-row align-items-start mb-3">
+                  <!-- Left time column (visible for all items when time is present) -->
+                  <div class="col-12 col-lg-2 mb-2 mb-lg-0 d-flex align-items-center">
+                    {% if event_time %}
+                      <small class="fw-semibold text-muted">{{ event_time }}</small>
+                    {% else %}
+                      <!-- spacer to keep alignment -->
+                      <span class="d-none d-lg-inline-block">&nbsp;</span>
+                    {% endif %}
+                  </div>
+
+                  <!-- Right content column -->
+                  <div class="col-12 col-lg-10">
+                    {% if is_session %}
+                      <!-- Session: single-line, centered title with optional subtitle -->
+                      <div style="display:flex; align-items:center; justify-content:center; width:100%;">
+                        <div style="text-align:center; width:100%;">
+                          <h5 class="fw-bold m-0">{{ event.title }}</h5>
+                          {% if event.subtitle %}
+                            <p class="fw-light m-0 small">{{ event.subtitle }}</p>
+                          {% endif %}
                         </div>
-                    </div>
-                </div>
+                      </div>
+
+                    {% else %}
+                      {%- comment -%} resolve color (hex expected in site.data.program.legend.categories[].color) {%- endcomment -%}
+                      {% if event.category %}
+                        {% assign cat_obj = categories | where: "name", event.category | first %}
+                        {% if cat_obj and cat_obj.color %}
+                          {% assign event_color = cat_obj.color %}
+                        {% else %}
+                          {% assign event_color = "#6c757d" %}
+                        {% endif %}
+                      {% else %}
+                        {% assign event_color = "#6c757d" %}
+                      {% endif %}
+
+                      {%- comment -%}
+                        Use inline style for left border and faint background:
+                          - border-left: 4px solid <hex>
+                          - background-color: <hex>15  (6-digit hex + 2 hex alpha; requires 6-digit hex)
+                      {%- endcomment -%}
+                      <div style="border-left:4px solid {{ event_color }}; background-color: {{ event_color }}15; padding:.75rem 1rem; border-radius:6px;">
+                        <h5 class="fw-normal m-0 mb-1">{{ event.title }}</h5>
+                        {% if event.subtitle %}
+                          <p class="fw-light m-0">{{ event.subtitle }}</p>
+                        {% endif %}
+
+                        {% comment %} links / poster / slides / video — handle arrays or single values {% endcomment %}
+                        <p class="fw-light m-0 mt-2">
+                          {% if event.link %}
+                            {% if event.link.first %}
+                              {% for link in event.link %}
+                                <a href="{{ link }}" target="_blank">[link {{ forloop.index }}]</a>{% if forloop.last == false %} {% endif %}
+                              {% endfor %}
+                            {% else %}
+                              <a href="{{ event.link }}" target="_blank">[link]</a>
+                            {% endif %}
+                          {% endif %}
+
+                          {% if event.poster %}
+                            {% if event.poster.first %}
+                              {% for poster in event.poster %}
+                                <a href="{{ poster }}" target="_blank">[Poster {{ forloop.index }}]</a>{% if forloop.last == false %} {% endif %}
+                              {% endfor %}
+                            {% else %}
+                              <a href="{{ event.poster }}" target="_blank">[Poster]</a>
+                            {% endif %}
+                          {% endif %}
+
+                          {% if event.slides %}
+                            {% if event.slides.first %}
+                              {% for slides in event.slides %}
+                                <a href="{{ slides }}" target="_blank">[Slides {{ forloop.index }}]</a>{% if forloop.last == false %} {% endif %}
+                              {% endfor %}
+                            {% else %}
+                              <a href="{{ event.slides }}" target="_blank">[Slides]</a>
+                            {% endif %}
+                          {% endif %}
+
+                          {% if event.video %}
+                            {% if event.video.first %}
+                              {% for video in event.video %}
+                                <a href="{{ video }}" target="_blank">[Video {{ forloop.index }}]</a>{% if forloop.last == false %} {% endif %}
+                              {% endfor %}
+                            {% else %}
+                              <a href="{{ event.video }}" target="_blank">[Video]</a>
+                            {% endif %}
+                          {% endif %}
+                        </p>
+                      </div>
+                    {% endif %}
+                  </div>
+                </li>
+
                 {% endfor %}
+              </ul>
+
+              {%- comment -%}
+                Legend: take unique non-empty categories used in this day and render colored pills.
+                Color derived from categories array in site.data.program.legend.categories (hex expected).
+              {%- endcomment -%}
+              {% assign legend = day.events | map: "category" | compact | uniq %}
+              {% if legend.size > 0 %}
+                <div class="mt-4 mb-2 text-center">
+                  {% if site.data.program.legend.title %}
+                    <h5 class="fw-normal">{{ site.data.program.legend.title }}</h5>
+                  {% endif %}
+
+                  <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:.5rem; margin-top:.5rem;">
+                    {% for item in legend %}
+                      {% if item %}
+                        {% assign cat = site.data.program.legend.categories | where: "name", item | first %}
+                        {% if cat and cat.color %}
+                          {% assign legend_hex = cat.color %}
+                        {% else %}
+                          {% assign legend_hex = "#6c757d" %}
+                        {% endif %}
+                        <small style="display:inline-block; padding:.25rem .6rem; border-left:4px solid {{ legend_hex }}; background-color: {{ legend_hex }}15; border-radius:6px;">
+                          {{ item | upcase }}
+                        </small>
+                      {% endif %}
+                    {% endfor %}
+                  </div>
+                </div>
+              {% endif %}
+
             </div>
-            {% endif %}
+          </div>
         </div>
+        {% endfor %}
+
+      </div>
+    </div>
+    {% endif %}
+  </div>
 </main>

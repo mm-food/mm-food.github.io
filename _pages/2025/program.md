@@ -6,15 +6,21 @@ permalink: /2025/program/
 classes: single
 ---
 
-<hr>
-
 ### Keynote Talk
 >
 ![Dr. Ganesh Bagler](/assets/images/people/ganesh.jpg) <br><br>
 **<span style="font-size:1.3em;">Dr. Ganesh Bagler</span>**  
-*Infosys Centre for Artificial Intelligence & Complex Systems Laboratory, **Indraprastha Institute of Information Technology, Delhi (India)*** <br><br>
+*Infosys Centre for Artificial Intelligence & Complex Systems Laboratory, **Indraprastha Institute of Information Technology, <br> Delhi (India)*** <br><br>
 **Bio:** As a teenager, Ganesh Bagler aspired to be an astronomer. Trained in physics, computer science, and computational biology, he has had an adventurous journey from astronomy to gastronomy. Prof. Bagler is known for his pioneering research in ‘Computational Gastronomy.’ By building keystone data repositories, algorithms, and applications, his lab has established the foundations of this emerging data science that blends food with artificial intelligence. Innovative research from his lab has contributed to this niche dealing with food, flavors, nutrition, health, and sustainability. Dr. Bagler has an audacious dream of transforming the food landscape by making food computable. <br><br>
 **Title: <span style="text-decoration: underline;">Computational Gastronomy: Making Food Computable</span>**
+
+### Invited Talk
+>
+![Dr. Adarsh Nadig](/assets/images/people/adarsh.jpg) <br><br>
+**<span style="font-size:1.3em;">Dr. Adarsh Nadig</span>**  
+*Faculty of Medical Leadership and Management Program, <br> **Barking, Havering and Redbridge University Hospitals NHS Trust, London (UK)*** <br><br>
+**Bio:** Dr. Adarsh Nadig, a practising neurosurgeon from London, argues that food is the most essential component of health, yet it is often overlooked. He emphasizes that personalization and empowering individual taste in food can have profound impacts on both personal well-being and planetary health. His initiative, Palate Power, is a technology-driven solution that employs a unique ap￾proach to bridging the gaps between the aspirations of individuals, healthcare organizations, agencies, research, and the state. <br><br>
+**Title: <span style="text-decoration: underline;">There is Nothing Artificial About Taste Intelligence</span>**
 
 
 ### Panel Discussion

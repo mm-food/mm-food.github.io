@@ -5,10 +5,13 @@ header:
   overlay_image: /assets/images/banner/food_banner.jpg
   caption: "Join us in Dublin for MMFood'25! We'd also love your help in spreading the word about this workshop."
   actions:
-  - label: "<a href='https://acmmm2025.org/' target='_blank' style='display: inline-block; padding: 10px 15px; background-color: transparent; color: white; text-decoration: none; border: 2px solid white; border-radius: 5px; font-weight: bold;' onmouseover='this.style.backgroundColor=\"white\"; this.style.color=\"black\"' onmouseout='this.style.backgroundColor=\"transparent\"; this.style.color=\"white\"'> <i class='fas fa-fw fa-link'></i> ACM Multimedia 2025 </a>"
-    url: "#"
-  - label: "<a href='/assets/resources/MMFood25_CFP.pdf' target='_blank' style='display: inline-block; padding: 10px 15px; background-color: transparent; color: white; text-decoration: none; border: 2px solid white; border-radius: 5px; font-weight: bold;' onmouseover='this.style.backgroundColor=\"white\"; this.style.color=\"black\"' onmouseout='this.style.backgroundColor=\"transparent\"; this.style.color=\"white\"'> <i class='fas fa-download'></i> Download Call for Papers</a>"
-    url: "#"
+  - label: "<i class='fas fa-fw fa-link'></i> ACM Multimedia 2025"
+    url: "https://acmmm2025.org/"
+    btn_class: "btn--inverse"
+  - label: "<i class='fas fa-download'></i> Download Call for Papers"
+    url: "/assets/resources/MMFood25_CFP.pdf"
+    btn_class: "btn--inverse"
+
 excerpt: "1st International Workshop on Multi-modal Food Computing"
 permalink: /2025/
 intro: 
@@ -21,7 +24,10 @@ intro:
 
 ### News
 <div class="notice--success">
-  <h4>The accepted papers for the MMFood'25 workshop have been announced. Click <a href="/2025/program/" class="alert-link">here</a> to know more.</h4>
+  <h4>The program details and schedule for the MMFood'25 workshop have been announced. Click <a href="/2025/program/#schedule" class="alert-link">here</a> to know more.</h4>
+</div>
+<div class="notice--success">
+  <h4>The accepted papers for the MMFood'25 workshop have been announced. Click <a href="/2025/program/#full-papers--oral-presentations" class="alert-link">here</a> to know more.</h4>
 </div>
 <div class="notice--info">
   <h4>In addition to the full papers (4–8 pages), we also invite short papers (up to 4 pages) that present early-stage work, novel ideas, or innovative applications. More information can be found <a href ="/2025/cfp/#short-paper" class ="alert-link"><b> here.</b></a></h4>
