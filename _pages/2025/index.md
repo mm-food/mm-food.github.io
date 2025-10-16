@@ -21,13 +21,24 @@ intro:
 
 {% include feature_row id="intro" type="center" %}
 
+### Program Schedule
+
+{% include program_schedule.html %}
+
+<!-- Include the rendered program schedule -->
+{% assign program_page = site.pages | where: "permalink", "/2025/program/" | first %}
+{% if program_page %}
+  {{ program_page.output }}
+{% else %}
+  <p><em>Program schedule coming soon.</em></p>
+{% endif %}
 
 ### News
 <div class="notice--success">
   <h4>The program details and schedule for the MMFood'25 workshop have been announced. Click <a href="/2025/program/#schedule" class="alert-link">here</a> to know more.</h4>
 </div>
 <div class="notice--success">
-  <h4>The accepted papers for the MMFood'25 workshop have been announced. Click <a href="/2025/program/#full-papers--oral-presentations" class="alert-link">here</a> to know more.</h4>
+  <h4>The accepted papers for the MMFood'25 workshop have been announced. Congratulations to all the authors! Click <a href="/2025/program/#full-papers--oral-presentations" class="alert-link">here</a> to know more.</h4>
 </div>
 <div class="notice--info">
   <h4>In addition to the full papers (4–8 pages), we also invite short papers (up to 4 pages) that present early-stage work, novel ideas, or innovative applications. More information can be found <a href ="/2025/cfp/#short-paper" class ="alert-link"><b> here.</b></a></h4>

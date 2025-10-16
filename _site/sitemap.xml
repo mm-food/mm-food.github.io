@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://0.0.0.0:4000/2025/cfp/</loc>
+<loc>http://localhost:4000/2025/cfp/</loc>
 </url>
 <url>
-<loc>http://0.0.0.0:4000/2025/hackathon/</loc>
+<loc>http://localhost:4000/2025/hackathon/</loc>
 </url>
 <url>
-<loc>http://0.0.0.0:4000/2025/</loc>
+<loc>http://localhost:4000/2025/</loc>
 </url>
 <url>
-<loc>http://0.0.0.0:4000/2025/organization/</loc>
+<loc>http://localhost:4000/2025/organization/</loc>
 </url>
 <url>
-<loc>http://0.0.0.0:4000/2025/program/</loc>
+<loc>http://localhost:4000/2025/program/</loc>
 </url>
 <url>
-<loc>http://0.0.0.0:4000/2025/resources/</loc>
+<loc>http://localhost:4000/2025/resources/</loc>
 </url>
 <url>
-<loc>http://0.0.0.0:4000/assets/resources/MMFood25_CFP.pdf</loc>
+<loc>http://localhost:4000/assets/resources/MMFood25_CFP.pdf</loc>
 <lastmod>2025-10-06T13:07:42+00:00</lastmod>
 </url>
 </urlset>

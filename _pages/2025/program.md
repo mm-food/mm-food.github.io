@@ -21,7 +21,7 @@ classes: single
 ![Dr. Adarsh Nadig](/assets/images/people/adarsh.jpg) <br><br>
 **<span style="font-size:1.3em;">Dr. Adarsh Nadig</span>**  
 *Faculty of Medical Leadership and Management Program, <br> **Barking, Havering and Redbridge University Hospitals NHS Trust, London (UK)*** <br><br>
-**Bio:** Dr. Adarsh Nadig, a practising neurosurgeon from London, argues that food is the most essential component of health, yet it is often overlooked. He emphasizes that personalization and empowering individual taste in food can have profound impacts on both personal well-being and planetary health. His initiative, Palate Power, is a technology-driven solution that employs a unique ap￾proach to bridging the gaps between the aspirations of individuals, healthcare organizations, agencies, research, and the state. <br><br>
+**Bio:** Dr. Adarsh Nadig, a practising neurosurgeon from London, argues that food is the most essential component of health, yet it is often overlooked. He emphasizes that personalization and empowering individual taste in food can have profound impacts on both personal well-being and planetary health. His initiative, Palate Power, is a technology-driven solution that employs a unique approach to bridging the gaps between the aspirations of individuals, healthcare organizations, agencies, research, and the state. <br><br>
 **Title: <span style="text-decoration: underline;">There is Nothing Artificial About Taste Intelligence</span>**
 
 
@@ -62,7 +62,7 @@ classes: single
 <p><b>Themes:</b> Understanding Food Through Multiple Modalities, Cultural Preservation, Data to Insights and Actions, Trustworthy AI for Food Computing</p>
 </blockquote>
 
-### Full Papers / Oral Presentations
+### Accepted Full Papers / Oral Presentations
 >
 >**What we talk about when we talk about food experiences**  
 *Yihan Kang, Shu Zhong, Sriram Subramanian and Marianna Obrist.*
@@ -88,7 +88,7 @@ classes: single
 >**TATVA: Turmeric Adulteration Detection using Thermal Video Analysis**  
 *Rupinder Kaur, Shahbaz Ahmad Khanday, Simrandeep Singh, Uday Thakur, Ashish Verma and Mukesh Saini.*
 
-### Short Papers / Poster Session
+### Accepted Short Papers / Poster Session
 >
 >**Diffusion-Guided 3D-Aware Calorie Estimation from a Single Food Image**  
 *Mayu Ogishi, Hikaru Tanabe and Keiji Yanai.*
@@ -106,3 +106,4 @@ classes: single
 *Aarush Kumbhakern, Saransh Kumar Gupta, Lipika Dey and Partha Pratim Das.*
 
 ### Schedule
+{% include program_schedule.html %}

@@ -23,8 +23,24 @@ days:
     - title: Morning Tea
       session: true
       time: '10:30 - 11:00'
-    - title: Full Paper Presentations
-      subtitle: 12 minutes each – including Q&A
+    - title: >
+        Full Paper Presentations
+      subtitle: > 
+        12 minutes each – including Q&A <br> <br>
+        <b> What we talk about when we talk about food experiences </b> <br> 
+        <i> Yihan Kang, Shu Zhong, Sriram Subramanian and Marianna Obrist </i> <br> <br> 
+        <b> Blockchain-Based Paddy Crop Marketplace: Enhancing Farmer-Buyer Trust Through Smart Contracts </b> <br> 
+        <i> A Kandasamy, Chandrasekaran K, Usha Divakarla and Mohan Krishna </i> <br> <br> 
+        <b> FLICSNet: A Novel Framework for Cooking Action Segmentation from Video </b> <br> 
+        <i> Sandeep Khanna, Chiranjoy Chattopadhyay and Suman Kundu </i> <br> <br>
+        <b> Introducing the Swiss Food Knowledge Graph: AI for Context-Aware Nutrition Recommendation </b> <br> 
+        <i> Lubnaa Abdur Rahman, Ioannis Papathanail and Stavroula Mougiakakou </i> <br> <br> 
+        <b> Extending FKG.in: Towards A Food Claim Traceability Network </b> <br> 
+        <i> Saransh Kumar Gupta, Rizwan Gulzar Mir, Lipika Dey, Partha Pratim Das, Anirban Sen and Ramesh Jain </i> <br> <br>
+        <b> Contextualized Food Planning for Fluoride Toxicity Mitigation Using Multimodal Data </b> <br> 
+        <i> Tiyasa Das, Monojit Samajder and Chandreyee Das </i> <br> <br> 
+        <b> TATVA: Turmeric Adulteration Detection using Thermal Video Analysis </b> <br> 
+        <i> Rupinder Kaur, Shahbaz Ahmad Khanday, Simrandeep Singh, Uday Thakur, Ashish Verma and Mukesh Saini </i> <br> <br> 
       category: paper
       time: '11:00 - 12:30'
     - title: Lunch
@@ -34,8 +50,20 @@ days:
       subtitle: There is Nothing Artificial About Taste Intelligence
       category: talk
       time: '13:30 - 14:15'
-    - title: Short Paper Presentations
-      subtitle: 5 Minutes Lightning Pitch
+    - title: > 
+        Short Paper Presentations
+      subtitle: >
+        5 Minutes Lightning Pitch <br> <br>
+        <b> Diffusion-Guided 3D-Aware Calorie Estimation from a Single Food Image </b> <br>
+        <i> Mayu Ogishi, Hikaru Tanabe and Keiji Yanai </i> <br> <br>
+        <b> Food Nutrient Estimation Based on a Dual-directional Self-attention Aggregation Enhanced Inception Model </b> <br>
+        <i> Aixue Shen, Xian-Hua Han, Xu Qiao, Ke Liu, Jiande Sun and Jian Wang </i> <br> <br>
+        <b> What’s Not on the Plate? Rethinking Food Computing through Indigenous Indian Datasets </b> <br>
+        <i> Pamir Gogoi, Neha Joshi, Ayushi Pandey, Deepthi Sudharsan, Saransh Kumar Gupta, Lipika Dey, Partha Pratim Das, Kalika Bali and Vivek Seshadri </i> <br> <br>
+        <b> Decoupled Clip and Dynamic Sampling Policy Optimization for Food Reasoning Segmentation </b> <br>
+        <i> Hikaru Tanabe and Keiji Yanai </i> <br> <br>
+        <b> Towards an Action-Centric Ontology for Cooking Procedures Using Temporal Graphs </b> <br>
+        <i> Aarush Kumbhakern, Saransh Kumar Gupta, Lipika Dey and Partha Pratim Das </i> <br> <br>
       category: paper
       time: '14:15 - 14:45'
     - title: Afternoon Tea
