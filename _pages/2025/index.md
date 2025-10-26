@@ -23,14 +23,20 @@ intro:
 
 ### Virtual Participation
 <div class="notice--success">
-  <h4>In case you aren't able to attend the MMFood'25 workshop online, we will also be allowing virtual participation. The details for joining the workshop online are as follows:<br><br>
-    📅 <strong>Time:</strong> Oct 28, 2025, 9:00 AM GMT<br>
+  <h4>In case you aren't able to attend the MMFood'25 workshop online and/or are presenting your work online, we welcome you to join the MMFood'25 workshop online. The virtual participation details are as follows:</h4><br><br>
+
+    📅 <strong>Time:</strong> Oct 28, 2025, 9:00 AM GMT/UTC<br>
     🔗 <strong>Join Zoom Meeting:</strong> 
     <a href="https://zoom.us/j/93429559023?pwd=VMdiNbVnrXukRuB3GJbilqxIWVxjQm.1" target="_blank">https://zoom.us/j/93429559023?pwd=VMdiNbVnrXukRuB3GJbilqxIWVxjQm.1
     </a><br>
     💬 <strong>Meeting ID:</strong> 934 2955 9023<br>
-    🔒 <strong>Passcode:</strong> smgqsdr
-  </h4>
+    🔒 <strong>Passcode:</strong> smgqsdr<br><br>
+
+Please note that you may need to enter the passcode only if you do not join the zoom meeting online by logging in.
+
+<br>
+
+<strong>Important Note:</strong> Ireland has switched off the Daylight Savings Time on the 26th Oct. 2025. Accordingly, Ireland is now using GMT/UTC + 0 (not GMT/UTC + 1 as during the summers). The meeting time mentioned above reflects this update. Please plan accordingly.<br>
 </div>
 
 
