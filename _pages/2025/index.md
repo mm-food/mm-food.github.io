@@ -32,9 +32,7 @@ intro:
     💬 <strong>Meeting ID:</strong> 934 2955 9023<br>
     🔒 <strong>Passcode:</strong> smgqsdr<br><br>
 
-Please note that you may need to enter the passcode only if you do not join the zoom meeting online by logging in.
-
-<br>
+Please note that you may need to enter the passcode only if you do not join the zoom meeting online by logging in.<br><br>
 
 <strong>Important Note:</strong> Ireland has switched off the Daylight Savings Time on the 26th Oct. 2025. Accordingly, Ireland is now using GMT/UTC + 0 (not GMT/UTC + 1 as during the summers). The meeting time mentioned above reflects this update. Please plan accordingly.<br>
 </div>
