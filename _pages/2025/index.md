@@ -23,7 +23,7 @@ intro:
 
 ### Virtual Participation
 <div class="notice--success">
-  <h4>In case you aren't able to attend the MMFood'25 workshop online and/or are presenting your work online, we welcome you to join the MMFood'25 workshop online. The virtual participation details are as follows:</h4><br><br>
+  <h4>In case you aren't able to attend the MMFood'25 workshop in person and/or are presenting your work online, we welcome you to join the MMFood'25 workshop online. The virtual participation details are as follows:</h4><br><br>
 
     📅 <strong>Time:</strong> Oct 28, 2025, 9:00 AM GMT/UTC<br>
     🔗 <strong>Join Zoom Meeting:</strong> 
