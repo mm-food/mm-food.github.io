@@ -21,6 +21,19 @@ intro:
 
 {% include feature_row id="intro" type="center" %}
 
+### Virtual Participation
+<div class="notice--success">
+  <h4>In case you aren't able to attend the MMFood'25 workshop online, we will also be allowing virtual participation. The details for joining the workshop online are as follows:<br><br>
+    📅 <strong>Time:</strong> Oct 28, 2025, 9:00 AM GMT<br>
+    🔗 <strong>Join Zoom Meeting:</strong> 
+    <a href="https://zoom.us/j/93429559023?pwd=VMdiNbVnrXukRuB3GJbilqxIWVxjQm.1" target="_blank">https://zoom.us/j/93429559023?pwd=VMdiNbVnrXukRuB3GJbilqxIWVxjQm.1
+    </a><br>
+    💬 <strong>Meeting ID:</strong> 934 2955 9023<br>
+    🔒 <strong>Passcode:</strong> smgqsdr
+  </h4>
+</div>
+
+
 ### Program Schedule
 
 {% include program_schedule.html %}
