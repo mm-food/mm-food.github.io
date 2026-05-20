@@ -18,6 +18,9 @@ days:
       time: '09:00 - 09:10'
     - title: Keynote Talk by Prof. Ganesh Bagler
       subtitle: Computational Gastronomy - The Emerging Science of Food, Flavors, Nutrition, and Personalized Health
+        <a href="https://dl.acm.org/doi/10.1145/3746264.3760484" target="_blank">
+          <i class="fas fa-external-link-alt"></i>
+        </a>
       category: talk
       time: '09:15 - 10:30'
     - title: Morning Tea
@@ -27,19 +30,47 @@ days:
         Full Paper Presentations
       subtitle: > 
         12 minutes each – including Q&A <br> <br>
-        <b> What we talk about when we talk about food experiences </b> <br> 
-        <i> Yihan Kang, Shu Zhong, Sriram Subramanian and Marianna Obrist </i> <br> <br> 
-        <b> Blockchain-Based Paddy Crop Marketplace: Enhancing Farmer-Buyer Trust Through Smart Contracts </b> <br> 
+        <b> What we talk about when we talk about food experiences
+          <a href="https://dl.acm.org/doi/10.1145/3746264.3760492" target="_blank" style="margin-left:6px;">
+            <i class="fas fa-external-link-alt"></i>
+          </a>
+        </b><br>
+        <i> Yihan Kang, Shu Zhong, Sriram Subramanian and Marianna Obrist </i> <br> <br>
+        <b> Blockchain-Based Paddy Crop Marketplace: Enhancing Farmer-Buyer Trust Through Smart Contracts 
+          <a href="https://dl.acm.org/doi/10.1145/3746264.3760493" target="_blank" style="margin-left:6px;">
+            <i class="fas fa-external-link-alt"></i>
+          </a>
+        </b> <br> 
         <i> A Kandasamy, Chandrasekaran K, Usha Divakarla and Mohan Krishna </i> <br> <br> 
-        <b> FLICSNet: A Novel Framework for Cooking Action Segmentation from Video </b> <br> 
+        <b> FLICSNet: A Novel Framework for Cooking Action Segmentation from Video 
+          <a href="https://dl.acm.org/doi/10.1145/3746264.3760478" target="_blank" style="margin-left:6px;">
+            <i class="fas fa-external-link-alt"></i>
+          </a>
+        </b> <br> 
         <i> Sandeep Khanna, Chiranjoy Chattopadhyay and Suman Kundu </i> <br> <br>
-        <b> Introducing the Swiss Food Knowledge Graph: AI for Context-Aware Nutrition Recommendation </b> <br> 
+        <b> Introducing the Swiss Food Knowledge Graph: AI for Context-Aware Nutrition Recommendation 
+          <a href="https://dl.acm.org/doi/10.1145/3746264.3760494" target="_blank" style="margin-left:6px;">
+            <i class="fas fa-external-link-alt"></i>
+          </a>
+        </b> <br> 
         <i> Lubnaa Abdur Rahman, Ioannis Papathanail and Stavroula Mougiakakou </i> <br> <br> 
-        <b> Extending FKG.in: Towards A Food Claim Traceability Network </b> <br> 
+        <b> Extending FKG.in: Towards A Food Claim Traceability Network 
+          <a href="https://dl.acm.org/doi/10.1145/3746264.3760496" target="_blank" style="margin-left:6px;">
+            <i class="fas fa-external-link-alt"></i>
+          </a>
+        </b> <br> 
         <i> Saransh Kumar Gupta, Rizwan Gulzar Mir, Lipika Dey, Partha Pratim Das, Anirban Sen and Ramesh Jain </i> <br> <br>
-        <b> Contextualized Food Planning for Fluoride Toxicity Mitigation Using Multimodal Data </b> <br> 
+        <b> Contextualized Food Planning for Fluoride Toxicity Mitigation Using Multimodal Data 
+          <a href="https://dl.acm.org/doi/10.1145/3746264.3760482" target="_blank" style="margin-left:6px;">
+            <i class="fas fa-external-link-alt"></i>
+          </a>
+        </b> <br> 
         <i> Tiyasa Das, Monojit Samajder and Chandreyee Das </i> <br> <br> 
-        <b> TATVA: Turmeric Adulteration Detection using Thermal Video Analysis </b> <br> 
+        <b> TATVA: Turmeric Adulteration Detection using Thermal Video Analysis 
+          <a href="https://dl.acm.org/doi/10.1145/3746264.3760497" target="_blank" style="margin-left:6px;">
+            <i class="fas fa-external-link-alt"></i>
+          </a>
+        </b> <br> 
         <i> Rupinder Kaur, Shahbaz Ahmad Khanday, Simrandeep Singh, Uday Thakur, Ashish Verma and Mukesh Saini </i> <br> <br> 
       category: paper
       time: '11:00 - 12:30'
@@ -54,15 +85,35 @@ days:
         Short Paper Presentations
       subtitle: >
         5 Minutes Lightning Pitch <br> <br>
-        <b> Diffusion-Guided 3D-Aware Calorie Estimation from a Single Food Image </b> <br>
+        <b> Diffusion-Guided 3D-Aware Calorie Estimation from a Single Food Image
+          <a href="https://dl.acm.org/doi/10.1145/3746264.3760487" target="_blank" style="margin-left:6px;">
+            <i class="fas fa-external-link-alt"></i>
+          </a>
+        </b> <br>
         <i> Mayu Ogishi, Hikaru Tanabe and Keiji Yanai </i> <br> <br>
-        <b> Food Nutrient Estimation Based on a Dual-directional Self-attention Aggregation Enhanced Inception Model </b> <br>
+        <b> Food Nutrient Estimation Based on a Dual-directional Self-attention Aggregation Enhanced Inception Model 
+          <a href="https://dl.acm.org/doi/10.1145/3746264.3760488" target="_blank" style="margin-left:6px;">
+            <i class="fas fa-external-link-alt"></i>
+          </a>
+        </b> <br>
         <i> Aixue Shen, Xian-Hua Han, Xu Qiao, Ke Liu, Jiande Sun and Jian Wang </i> <br> <br>
-        <b> What’s Not on the Plate? Rethinking Food Computing through Indigenous Indian Datasets </b> <br>
+        <b> What’s Not on the Plate? Rethinking Food Computing through Indigenous Indian Datasets 
+          <a href="https://dl.acm.org/doi/10.1145/3746264.3760498" target="_blank" style="margin-left:6px;">
+            <i class="fas fa-external-link-alt"></i>
+          </a>
+        </b> <br>
         <i> Pamir Gogoi, Neha Joshi, Ayushi Pandey, Deepthi Sudharsan, Saransh Kumar Gupta, Lipika Dey, Partha Pratim Das, Kalika Bali and Vivek Seshadri </i> <br> <br>
-        <b> Decoupled Clip and Dynamic Sampling Policy Optimization for Food Reasoning Segmentation </b> <br>
+        <b> Decoupled Clip and Dynamic Sampling Policy Optimization for Food Reasoning Segmentation 
+          <a href="https://dl.acm.org/doi/10.1145/3746264.3760490" target="_blank" style="margin-left:6px;">
+            <i class="fas fa-external-link-alt"></i>
+          </a>
+        </b> <br>
         <i> Hikaru Tanabe and Keiji Yanai </i> <br> <br>
-        <b> Towards an Action-Centric Ontology for Cooking Procedures Using Temporal Graphs </b> <br>
+        <b> Towards an Action-Centric Ontology for Cooking Procedures Using Temporal Graphs 
+          <a href="https://dl.acm.org/doi/10.1145/3746264.3760499" target="_blank" style="margin-left:6px;">
+            <i class="fas fa-external-link-alt"></i>
+          </a>
+        </b> <br>
         <i> Aarush Kumbhakern, Saransh Kumar Gupta, Lipika Dey and Partha Pratim Das </i> <br> <br>
       category: paper
       time: '14:15 - 14:45'
@@ -71,6 +122,9 @@ days:
       time: '15:00 - 15:30'
     - title: Panel Discussion
       subtitle: Multimodal Food Computing - Bridging Cultural Heritage, Artificial Intelligence, and Sustainable Food Futures
+        <a href="https://dl.acm.org/doi/10.1145/3746264.3761800" target="_blank">
+          <i class="fas fa-external-link-alt"></i>
+        </a>
       category: panel
       time: '15:30 - 16:30'
     - title: Closing Remarks

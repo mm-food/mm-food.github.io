@@ -19,7 +19,23 @@
 {% assign image_description = image_description | markdownify | strip_html | strip_newlines | escape_once %}
 
 <div class="page__hero{% if page.header.overlay_color or page.header.overlay_image %}--overlay{% endif %}"
-  style="height: 80vh !important; {% if page.header.overlay_color %}background-color: {{ page.header.overlay_color | default: 'transparent' }};{% endif %} {% if overlay_img_path %}background-image: {% if overlay_filter %}{{ overlay_filter }}, {% endif %}url('{{ overlay_img_path }}');{% endif %}"
+  style="
+    position:relative;
+
+    height:80vh !important;
+
+    {% if page.header.overlay_color %}
+      background-color: {{ page.header.overlay_color | default: 'transparent' }};
+    {% endif %}
+
+    {% if overlay_img_path %}
+      background-image:
+      {% if overlay_filter %}
+        {{ overlay_filter }},
+      {% endif %}
+      url('{{ overlay_img_path }}');
+    {% endif %}
+  "
 >
   {% if page.header.overlay_color or page.header.overlay_image %}
     <div class="wrapper">
@@ -37,11 +53,35 @@
       {% endif %}
       {% include page__meta.html %}
       {% if page.header.actions %}
-        <p>
-        {% for action in page.header.actions %}
-          <a href="{{ action.url | relative_url }}" class="btn btn--light-outline btn--large">{{ action.label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
-        {% endfor %}
-        </p>
+        <div
+          class="page__hero-links"
+          style="
+            position:absolute;
+            top:24px;
+            right:36px;
+            z-index:9999;
+
+            display:flex;
+            flex-direction:column;
+
+            align-items:flex-end;
+
+            gap:12px;
+          "
+        >
+          {% for action in page.header.actions %}
+            <a
+              href="{{ action.url | relative_url }}"
+              class="btn btn--light-outline btn--small"
+
+              {% if action.url contains '://' %}
+                target="_blank"
+              {% endif %}
+            >
+              {{ action.label }}
+            </a>
+          {% endfor %}
+        </div>
       {% endif %}
     </div>
   {% else %}
