@@ -56,6 +56,9 @@ Please note that you may need to enter the passcode only if you do not join the 
 
 ### News
 <div class="notice--success">
+  <h4>The ACM Multimedia: MMFood'25 Workshop Proceedings have been published. Click <a href="https://dl.acm.org/doi/proceedings/10.1145/3746264" class="alert-link">here</a> to view.</h4>
+</div>
+<div class="notice--success">
   <h4>The program details and schedule for the MMFood'25 workshop have been announced. Click <a href="/2025/program/#schedule" class="alert-link">here</a> to know more.</h4>
 </div>
 <div class="notice--success">
