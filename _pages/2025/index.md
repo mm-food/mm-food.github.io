@@ -7,14 +7,14 @@ header:
   caption: "Join us in Dublin for MMFood'25! We'd also love your help in spreading the word about this workshop."
 
   actions:
-    - label: "<i class='fas fa-fw fa-book'></i> Workshop Proceedings"
-      url: "https://dl.acm.org/doi/proceedings/10.1145/3746264"
+      - label: "<i class='fas fa-download'></i> Download CFP"
+      url: "/assets/resources/MMFood25_CFP.pdf"
 
-    - label: "<i class='fas fa-fw fa-globe'></i> ACM Multimedia 2025"
+      - label: "<i class='fas fa-fw fa-globe'></i> ACM Multimedia 2025"
       url: "https://acmmm2025.org/"
 
-    - label: "<i class='fas fa-download'></i> Download CFP"
-      url: "/assets/resources/MMFood25_CFP.pdf"
+    - label: "<i class='fas fa-fw fa-book'></i> Workshop Proceedings"
+      url: "https://dl.acm.org/doi/proceedings/10.1145/3746264"
 
 excerpt: "1st International Workshop on Multi-modal Food Computing"
 permalink: /2025/
